@@ -1,0 +1,1 @@
+This is the repository for the final project of Computer Science 250: Analysis of Algorithms for the Spring Semester of 2015 at Allegheny College.

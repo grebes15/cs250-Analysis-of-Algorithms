@@ -1,0 +1,1 @@
+This is the repository for all work for Computer Science 250: Analysis of Algorithms at Allegheny College. 

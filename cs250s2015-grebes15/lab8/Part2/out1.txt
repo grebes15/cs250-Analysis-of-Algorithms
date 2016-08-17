@@ -1,0 +1,51 @@
+Word lists for data file: data1.txt
+
+Board:
+f r o o 
+y i e s 
+l d n t 
+a e r e
+ 
+There were 42 total words:
+a
+alder
+deal
+did
+die
+dies
+eider
+end
+ended
+enter
+entered
+ester
+friend
+friendly
+fries
+fro
+id
+idea
+ideal
+idly
+nest
+nests
+or
+orient
+re
+real
+red
+rid
+ride
+rider
+roe
+roost
+rooster
+roosts
+send
+sender
+sent
+so
+stern
+sternest
+stet
+tern

@@ -1,0 +1,1 @@
+This is the deliverables for the second lab of Computer Science 250: Analysis of Algorithms at Allegheny College.

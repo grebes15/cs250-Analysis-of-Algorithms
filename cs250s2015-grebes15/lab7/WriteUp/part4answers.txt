@@ -1,0 +1,104 @@
+LSD String Sort :
+BCA
+ABC
+ABA
+CAA
+CBA
+BAC
+CAB
+BCA
+CBA
+
+input (w = 3)
+
+d = 2
+BCA
+ABA
+CAA
+CBA
+BCA
+CBA
+CAB
+ABC
+BAC
+
+d = 1
+CAA
+CAB
+BAC
+ABA
+CBA
+CBA
+ABC
+BCA
+BCA
+
+d = 0
+ABA
+ABC
+BAC
+BCA
+BCA
+CAA
+CAB
+CBA
+CBA
+
+output
+ABA
+ABC
+BAC
+BCA
+BCA
+CAA
+CAB
+CBA
+CBA
+
+
+
+MSD String Sort
+A
+AAAA
+AA
+AAB
+AAA
+ABA
+BAAAAA
+
+1st - 
+A
+AAAA
+AA
+AAB
+AAA
+ABA
+BAAAAA
+
+2nd -
+A
+LOW: AAAA
+AA
+AAB
+AAA
+HIGH: ABA
+BAAAAA
+
+3rd - 
+A
+AA
+LOW: AAAA
+AAA
+HIGH: AAB
+ABA
+BAAAAA
+
+RESULTS -
+A
+AA
+AAAA
+AAA
+AAB
+ABA
+BAAAAA
+

@@ -1,0 +1,103 @@
+//------------------------------------
+// Class contains the genetic algorithm to
+// create solutions for the given input
+//------------------------------------
+
+public class TimeTabler{
+
+	Schedule [] schedules = new Schedule [100];  // random solutions
+	ArrayList<Professor> professors = new ArrayList<Professor>();
+	ArrayList<Class> classes = new ArrayList<Class>();
+	ArrayList<Student> students = new ArrayList<Student>();
+	ArrayList<Course> courses = new ArrayList<Course>();
+	ArrayList<Classroom> rooms = new ArrayList<Classroom>();
+
+	public static void main (String [] args){
+		double mutationProb = 0.1; 		// Chance for any solution to mutate? [0,1]
+		double fitThreshold = 0.95;		// Necessary fitness to end evolution [0,1]
+		int numKilled = 20;				// Number of solutions killed/reborn each generation
+		int numParents = 10;			// Number of top solutions to use for crossover
+		int maxGens = 100;				// Maximum number of evolutions (will quit after this many regardless of fit)
+		Random r = new Random();		// Random doubles for random mutation
+
+		createObjects(input.xml);		// Creates objects by parsing xml
+
+		// Generates schedules
+		for(int i = 0; i < schedules.length; i++){
+			schedules[i] = generateRandomSchedule();		// Generates random schedule based on all objects
+		}
+
+		// Evolve until fitness threshold is met
+		int genCounter = 0;		// Tracks num of generations
+		while(schedule[0].getFitness() < fitThreshold && genCounter < maxGens){
+			genCounter ++; 		// Increment generation counter
+
+			// Calculate fitness of every solution
+			for(int i = 0; i < schedules.length; i++){
+				schedules[i].calcFitness(professors, classes, students);
+			}
+
+			sortByFitness();				// Sorts schedules by fitness
+
+			// perform crossover for all survivors to next generation
+			for(int i = 0; i < schedules.length - numKilled; i ++){
+				schedules[i] = performCrossover(schedules[i]);
+			}
+
+			// Kill worst solutions and create new ones
+			for(int i = schedules.length - numEvolved - 1; i < 100; i++){
+				schedules[i] = generateChildren();	// Random crossover from top solutions
+			}
+
+			// Perform random mutation on schedules
+			for(int i = 0; i < schedules.length; i++){
+				if(r.nextDouble() <= mutationProb){
+					mutate(schedules[i]);
+				}
+			}
+		}
+
+		// Hooray, we're done!
+
+	}
+
+	//--------------------------
+	// Creates all objects from xml(?) file using SAX(?)
+	//--------------------------
+	public static void createObjects(File input){
+		// Create profs, classes, etc.
+	}
+
+	public static void mutate(Schedule schedule){
+		// perform random mutation
+	}
+
+	public static Schedule generateChildren(){
+		// Replaces worst solutions with children of top solutions
+	}
+
+	public static Schedule performCrossover(Schedule schedule){
+		// Create new schedule thru crossover with old schedule and random top solution
+	}
+
+	public static Schedule generateRandomSchedule(){
+		// Generate the random schedule
+	}
+
+	public static void sortByFitness(){
+		// Sort schedules by fitness
+	}
+
+
+}
+
+/*
+- Parse input file to generate all objects
+- Generate random schedules
+while(fitness < ?){
+- Calculate fitness of all
+- Sort by fitness 	(What algo?)
+- Replace bottom 20 (?) with new solutions generated from crossover of top 20 (?)
+- Random mutation (?)
+}
+- Most fit is best solution

@@ -1,0 +1,679 @@
+Departments:
+Courses:
+Department - ID
+
+Art 
+110: 001
+111: 002
+112: 003
+225: 004
+231:
+236:
+241:
+245:
+247:
+249:
+330:
+520:
+582:
+600:
+610:
+155:
+156:
+165:
+251:
+255:
+261:
+385:
+386:
+521:
+522:
+580:
+583:
+590:
+620:
+
+Biology
+060: 
+067:
+070:
+071:
+077:
+078:
+082:
+220:
+305:
+332:
+360:
+365:
+385:
+405:
+523:
+580:
+581:
+590:
+600:
+610:
+
+
+Chemistry
+
+104:
+105:
+107:
+122:
+222:
+231:
+355:
+357:
+361:
+386:
+462:
+584:
+590:
+600:
+
+Communication Arts
+120:
+130:
+145:
+150:
+202:
+211:
+212:
+276:
+277:
+305:
+315:
+331:
+336:
+380:
+425:
+430:
+500:
+581:
+582:
+583:
+600:
+610:
+611:
+
+The Community and Justice Studies
+160:
+460:
+520:
+521:
+
+
+
+
+
+Computer Science
+111:
+112:
+250:
+383:
+500:
+501:
+510:
+511:
+512:
+580:
+590:
+600:
+610:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dance and Movement Studies
+100:
+101:
+102:
+104:
+205:
+207:
+301:
+302:
+304:
+372:
+410:
+470:
+520:
+580:
+590:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economics
+100:
+101:
+200:
+201:
+160:
+226:
+234:
+280:
+360:
+380:
+421:
+470:
+529:
+578:
+579:
+580:
+581:
+582:
+584:
+586:
+587:
+588:
+590:
+620:
+
+
+
+
+
+Education
+100:
+220:
+529:
+540:
+585:
+590:
+
+English
+200:
+203:
+204:
+212: 301:
+304:
+323:
+371:
+400:
+403:
+
+Environmental Science
+110:
+230:
+315:
+332:
+352:
+405:
+518:
+520:
+524:
+585:
+590:
+600:
+610:
+
+
+Geology:
+108:
+250:
+304:
+310:
+430:
+521:
+522:
+524:
+580:
+600:
+610:
+620:
+
+Global Health Studies:
+130:
+370:
+575:
+600:
+610:
+
+History:
+101:
+110:
+119:
+159:
+249:
+275:
+308:
+502:
+551:
+600:
+610:
+
+
+Math:
+135:
+157:
+158:
+159:
+160:
+170:
+205:
+315:
+340:
+585:
+590:
+620:
+
+
+Music:
+103:
+107:
+188:
+289:
+401:
+580:
+600:
+610:
+
+
+Neuroscience:
+120:
+590:
+600:
+610:
+
+Philosophy:
+210:
+220:
+240:
+350:
+580:
+600:
+610:
+
+Physics:
+120:
+210:
+272:
+340:
+480:
+580:
+600:
+610:
+620:
+
+
+Political Science:
+110:
+140:
+211:
+285:
+318:
+412:
+580:
+600:
+610:
+Psychology:
+
+106:
+150:
+206:
+370:
+400:
+410:
+411:
+420:
+433:
+550:
+551:
+552:
+553:
+584:
+600:
+610:
+620:
+
+Religious Studies:
+111:
+120:
+130:
+226:
+227:
+250:
+350:
+580:
+591
+600:
+610:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Professor - ID - Max. Classes - C
+
+
+Art
+
+Sue Buck
+Amelia Carr
+Amara Geffen
+Darren Miller
+Steve Prince
+Byron Rich
+Richard Schindler
+
+
+Biochemistry
+
+Catharina Coenen
+Alice Deckert
+Ivelitza Garcia
+Bradley Hersh
+Tricia Humphreys
+Ann Kleinschmidt
+Shaun Murphree
+Margaret Nelson
+Martin Serra
+
+Biology
+
+Lee Coates
+Becky Dawson
+Christine Donmoyer
+Lauren French
+Anne Jacobs
+Christopher Lundberg
+Ronald Mumme
+Milton Ostrofsky
+Susan Mayo Rankin
+Matthew Venesky
+Kristen Webb
+Lisa Whitenack
+Scott Wissinger
+
+
+
+
+
+Chemistry
+
+Mark Arms
+Matthew Betush
+Timothy Chapp
+Alice Deckert
+Elizabeth Guldan
+Kellie Brosius-Jircitano
+Phillip Persichini III
+Ann Sheffield
+David Statman
+Ryan Van Horn
+
+Communication Arts
+
+Courtney Bailey
+River Branch
+Mark Cosdon
+Daniel Crozier
+Michael Keeley
+Katherine McGerr
+Michael Mehler
+John Reilly
+Vesta Silva
+Ishita Sinha Roy
+Joe Tompkins
+Beth Watkins
+Jon Wiebel
+Julie Wilson
+Emily Chivers Yochim
+
+Computer Science
+
+Janyl Jumadinova
+Gregory Kapfhammer
+Robert Roos
+John Wenskovitch
+
+Dance
+
+James Reedy
+Betsy Sumerfield
+Eleanor Weisman
+
+
+
+
+
+
+Economics
+
+Chris Allison
+Asuman Baskan
+Simon Bilo
+Douglas Frank
+John Golden
+Z. Klingensmith
+Stephanie Martin
+Tomas Nonnenmacher
+Stephen Onyeiwu
+Russell Orminston
+Janine Sickafuse
+Jialu L. Streter
+
+Education
+
+Erin O’Day-Frye
+
+
+English
+
+Christopher Bakken
+James Bulman
+M. Soledad Caballero
+Michael Crowley
+Diane D’Amico
+Matthew Ferrence
+D. Alexis Hart
+Jennifer Wynne Hellwarth
+Aline Lo
+Kate McIntyre
+David Miller
+Valerie Sweeney Prince
+Benjamin Slote
+Susan Slote
+Jennie Votava
+
+
+
+
+
+
+
+
+
+
+
+
+Environmental Science
+
+Terry Bensel
+Rich Bowden
+Casey Bradshaw-Wislon
+Ian Carbone
+Beth Choate
+Brittany Davis
+Thomas Eatmon
+Benjamin Haywood
+Elizabeth Olson
+Eric Pallant
+Caryl Waggett
+Scott Wissinger
+
+Geology
+
+Ronald Cole
+Tamara Misner
+Rachel O’Brien
+Robert Schwartz
+
+History
+
+Ian Binnington
+Franklin E. Forts, Jr.
+Elisabeth Kale Haywood
+Judson Herrman
+Angela Keysor
+Stephen Lyons
+Kenneth Pinnow
+Andrea Seligman
+Barry Shapiro
+Guo Wu
+
+Mathematics
+
+Michael Barry
+Brent Carswell
+Craig J. Dodge
+Harald Ellers
+James Hollerman
+Richard Holmgren
+Tamara Lakins
+Cherly Leech
+Anthony Lo Bello
+Rachael Weir
+Caryn Werner
+Music
+
+Alec Chien
+Jennifer Dearden
+Julie Hepler
+Lowell Hepler
+James Niblock
+
+Neuroscience
+
+Jeffrey Hollerman
+Rodney Clark
+Sarah M. Conklin
+Allison Connell Pensky
+Jeffrey Cross
+
+Philosophy & Religious Studies
+
+Eric Boynton
+Rabbi Ronald Bernstein-Goff
+William Bywater, Jr.
+Steven Farrely-Jackson
+Glenn Holland
+Carl Olson
+Eric Palmer
+Younus Mirza
+Katharine Wolfe
+Marita Gilbert
+Patrick Jackson
+Hame Ellen Nickell
+David Roncolato
+Rehenuma Asmi
+
+Physics
+
+James C. Lonbardi, Jr.
+George Paily
+Doros Petasis
+Adele Poynor
+Shafique Rahman
+Robert Timlin
+Daniel Willey
+
+
+
+
+
+
+
+
+Political Science
+
+Andrew Bloeser
+Zachary Callen
+John Christie-Searles
+Jacqueline Gehring
+Brian Harward
+Shanna Kirschner
+Shannan Mattiace
+Bruce Smith
+Howard Tamashiro
+Sharon Wesoky
+Jolie Wood
+
+Psychology
+
+Aimee Knupsky
+Monali Chowdhury
+Deb Dickey
+Robert Hancock
+Juvia P. Heuchert
+Lydia Eckstein Jackson
+Elizabeth Weiss Ozorak
+Lauren Paulson
+Ryan Pickering
+Patricia Rutledge
+Brian Saltsman
+Joshua Searle-White

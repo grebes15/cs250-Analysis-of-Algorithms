@@ -1,0 +1,7597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data>
+<Student>
+<Student_ID>1</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Political Science 110</name>
+<name>Education 100</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>2</Student_ID>
+<name>Computer Science 250</name>
+<name>Education 220</name>
+<name>Computer Science 250</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>3</Student_ID>
+<name>Economics 100</name>
+<name>Dance and Movement Studies 100</name>
+<name>Art 247</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>4</Student_ID>
+<name>Religious Studies 111</name>
+<name>Music 107</name>
+<name>Philosophy 210</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>5</Student_ID>
+<name>Religious Studies 130</name>
+<name>Neuroscience 120</name>
+<name>Art 110</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>6</Student_ID>
+<name>Art 236</name>
+<name>Biology 067</name>
+<name>Education 100</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>7</Student_ID>
+<name>Chemistry 600</name>
+<name>Geology 250</name>
+<name>Art 225</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>8</Student_ID>
+<name>Economics 200</name>
+<name>Philosophy 210</name>
+<name>Math 320</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>9</Student_ID>
+<name>Art 111</name>
+<name>Physics 120</name>
+<name>English 203</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>10</Student_ID>
+<name>English 200</name>
+<name>Economics 100</name>
+<name>Philosophy 210</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>11</Student_ID>
+<name>English 200</name>
+<name>History 110</name>
+<name>Art 111</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>12</Student_ID>
+<name>Environment Science 315</name>
+<name>Dance and Movement Studies 102</name>
+<name>The Community and Justice Studies 160</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>13</Student_ID>
+<name>Economics 160</name>
+<name>Religious Studies 120</name>
+<name>Education 100</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>14</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 580</name>
+<name>Art 241</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>15</Student_ID>
+<name>Psychology 206</name>
+<name>Chemistry 600</name>
+<name>Philosophy 210</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>16</Student_ID>
+<name>History 101</name>
+<name>Dance and Movement Studies 100</name>
+<name>Geology 250</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>17</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Music 107</name>
+<name>Communciation Arts 120</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>18</Student_ID>
+<name>Philosophy 210</name>
+<name>Philosophy 220</name>
+<name>Physics 120</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>19</Student_ID>
+<name>Biology 067</name>
+<name>Global Health Studies 370</name>
+<name>Dance and Movement Studies 101</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>20</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Art 110</name>
+<name>Philosophy 240</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>21</Student_ID>
+<name>Physics 120</name>
+<name>Dance and Movement Studies 101</name>
+<name>Psychology 206</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>22</Student_ID>
+<name>Music 103</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 220</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>23</Student_ID>
+<name>Environmental Science 110</name>
+<name>Music 103</name>
+<name>Biology 100</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>24</Student_ID>
+<name>Environment Science 315</name>
+<name>Art 231</name>
+<name>Art 247</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>25</Student_ID>
+<name>Music 103</name>
+<name>Math 210</name>
+<name>Math 320</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>26</Student_ID>
+<name>Computer Science 112</name>
+<name>Environment Science 315</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>27</Student_ID>
+<name>Music 107</name>
+<name>Environmental Science 110</name>
+<name>Chemistry 600</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>28</Student_ID>
+<name>Music 107</name>
+<name>Environment Science 230</name>
+<name>Education 220</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>29</Student_ID>
+<name>Neuroscience 120</name>
+<name>Art 231</name>
+<name>Dance and Movement Studies 102</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>30</Student_ID>
+<name>Biology 060</name>
+<name>The Community and Justice Studies 160</name>
+<name>History 110</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>31</Student_ID>
+<name>Religious Studies 120</name>
+<name>Biology 060</name>
+<name>Art 225</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>32</Student_ID>
+<name>Psychology 206</name>
+<name>Global Health Studies 130</name>
+<name>Math 170</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>33</Student_ID>
+<name>Art 112</name>
+<name>Math 160</name>
+<name>Biology 060</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>34</Student_ID>
+<name>Geology 108</name>
+<name>Art 110</name>
+<name>Chemistry 104</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>35</Student_ID>
+<name>Math 205</name>
+<name>Art 247</name>
+<name>Philosophy 240</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>36</Student_ID>
+<name>Computer Science 250</name>
+<name>Dance and Movement Studies 100</name>
+<name>Geology 108</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>37</Student_ID>
+<name>Biology 067</name>
+<name>Dance and Movement Studies 101</name>
+<name>Biology 067</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>38</Student_ID>
+<name>Biology 100</name>
+<name>Art 236</name>
+<name>Math 160</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>39</Student_ID>
+<name>History 110</name>
+<name>Biology 100</name>
+<name>Physics 210</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>40</Student_ID>
+<name>Philosophy 220</name>
+<name>Global Health Studies 130</name>
+<name>Art 110</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>41</Student_ID>
+<name>Economics 200</name>
+<name>Math 160</name>
+<name>History 101</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>42</Student_ID>
+<name>Geology 250</name>
+<name>Psychology 150</name>
+<name>Chemistry 600</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>43</Student_ID>
+<name>English 203</name>
+<name>Communciation Arts 120</name>
+<name>Art 112</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>44</Student_ID>
+<name>Religious Studies 130</name>
+<name>Global Health Studies 130</name>
+<name>Computer Science 250</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>45</Student_ID>
+<name>Math 170</name>
+<name>Philosophy 220</name>
+<name>The Community and Justice Studies 160</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>46</Student_ID>
+<name>History 119</name>
+<name>Political Science 140</name>
+<name>Math 210</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>47</Student_ID>
+<name>Math 205</name>
+<name>Biology 070</name>
+<name>Economics 100</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>48</Student_ID>
+<name>Chemistry 600</name>
+<name>Biology 070</name>
+<name>Music 107</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>49</Student_ID>
+<name>History 119</name>
+<name>Math 210</name>
+<name>Math 170</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>50</Student_ID>
+<name>Communication Arts 611</name>
+<name>Global Health Studies 370</name>
+<name>Art 111</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>51</Student_ID>
+<name>Math 170</name>
+<name>Philosophy 220</name>
+<name>Art 236</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>52</Student_ID>
+<name>Math 205</name>
+<name>The Community and Justice Studies 460</name>
+<name>Global Health Studies 130</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>53</Student_ID>
+<name>Computer Science 112</name>
+<name>Economics 101</name>
+<name>Math 170</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>54</Student_ID>
+<name>Biology 067</name>
+<name>Biology 100</name>
+<name>Art 241</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>55</Student_ID>
+<name>Psychology 150</name>
+<name>Communication Arts 611</name>
+<name>English 200</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>56</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Dance and Movement Studies 101</name>
+<name>English 203</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>57</Student_ID>
+<name>Biology 070</name>
+<name>History 110</name>
+<name>Chemistry 600</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>58</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Philosophy 240</name>
+<name>Art 112</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>59</Student_ID>
+<name>Psychology 106</name>
+<name>Psychology 150</name>
+<name>Biology 100</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>60</Student_ID>
+<name>Biology 067</name>
+<name>Environmental Science 110</name>
+<name>Philosophy 210</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>61</Student_ID>
+<name>Chemistry 600</name>
+<name>History 110</name>
+<name>Communciation Arts 120</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>62</Student_ID>
+<name>Chemistry 104</name>
+<name>Computer Science 111</name>
+<name>Dance and Movement Studies 100</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>63</Student_ID>
+<name>Biology 060</name>
+<name>Geology 250</name>
+<name>Biology 067</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>64</Student_ID>
+<name>Economics 100</name>
+<name>Math 205</name>
+<name>Computer Science 112</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>65</Student_ID>
+<name>History 101</name>
+<name>Economics 100</name>
+<name>Biology 067</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>66</Student_ID>
+<name>Biology 060</name>
+<name>Computer Science 112</name>
+<name>Art 112</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>67</Student_ID>
+<name>Art 231</name>
+<name>Biology 100</name>
+<name>Global Health Studies 370</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>68</Student_ID>
+<name>History 110</name>
+<name>Dance and Movement Studies 102</name>
+<name>Dance and Movement Studies 101</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>69</Student_ID>
+<name>Math 170</name>
+<name>Math 210</name>
+<name>Math 320</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>70</Student_ID>
+<name>Religious Studies 130</name>
+<name>Biology 067</name>
+<name>Psychology 150</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>71</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 250</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>72</Student_ID>
+<name>History 101</name>
+<name>Dance and Movement Studies 102</name>
+<name>Computer Science 112</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>73</Student_ID>
+<name>Biology 067</name>
+<name>Psychology 106</name>
+<name>Education 100</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>74</Student_ID>
+<name>Computer Science 111</name>
+<name>Psychology 150</name>
+<name>Biology 067</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>75</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>76</Student_ID>
+<name>Art 231</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 220</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>77</Student_ID>
+<name>Political Science 140</name>
+<name>Environment Science 230</name>
+<name>Education 220</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>78</Student_ID>
+<name>Biology 100</name>
+<name>History 110</name>
+<name>Math 205</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>79</Student_ID>
+<name>Biology 067</name>
+<name>Economics 100</name>
+<name>Communication Arts 611</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>80</Student_ID>
+<name>Biology 060</name>
+<name>Dance and Movement Studies 100</name>
+<name>Religious Studies 120</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>81</Student_ID>
+<name>Biology 100</name>
+<name>Art 225</name>
+<name>Environmental Science 110</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>82</Student_ID>
+<name>Math 160</name>
+<name>Dance and Movement Studies 100</name>
+<name>Education 220</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>83</Student_ID>
+<name>History 101</name>
+<name>Biology 070</name>
+<name>History 119</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>84</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Biology 070</name>
+<name>Physics 210</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>85</Student_ID>
+<name>Communication Arts 611</name>
+<name>Art 247</name>
+<name>Communciation Arts 120</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>86</Student_ID>
+<name>History 110</name>
+<name>Environment Science 230</name>
+<name>Religious Studies 130</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>87</Student_ID>
+<name>Music 107</name>
+<name>Environment Science 315</name>
+<name>Math 160</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>88</Student_ID>
+<name>Philosophy 240</name>
+<name>English 200</name>
+<name>Math 320</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>89</Student_ID>
+<name>Biology 070</name>
+<name>Music 107</name>
+<name>Geology 108</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>90</Student_ID>
+<name>Geology 108</name>
+<name>Math 170</name>
+<name>Art 247</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>91</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Environment Science 315</name>
+<name>Economics 101</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>92</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Art 247</name>
+<name>Political Science 110</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>93</Student_ID>
+<name>Math 210</name>
+<name>Environmental Science 110</name>
+<name>Communciation Arts 120</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>94</Student_ID>
+<name>Philosophy 210</name>
+<name>Art 245</name>
+<name>Global Health Studies 370</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>95</Student_ID>
+<name>Physics 120</name>
+<name>Art 110</name>
+<name>Religious Studies 130</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>96</Student_ID>
+<name>Computer Science 111</name>
+<name>Economics 101</name>
+<name>Religious Studies 111</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>97</Student_ID>
+<name>Biology 060</name>
+<name>Art 247</name>
+<name>Art 110</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>98</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Dance and Movement Studies 101</name>
+<name>Economics 160</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>99</Student_ID>
+<name>Music 107</name>
+<name>Art 245</name>
+<name>Computer Science 250</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>100</Student_ID>
+<name>Art 241</name>
+<name>Psychology 150</name>
+<name>Economics 200</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>101</Student_ID>
+<name>Music 103</name>
+<name>Biology 070</name>
+<name>Religious Studies 111</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>102</Student_ID>
+<name>Computer Science 580</name>
+<name>Economics 160</name>
+<name>Religious Studies 111</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>103</Student_ID>
+<name>Computer Science 111</name>
+<name>Art 236</name>
+<name>Psychology 150</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>104</Student_ID>
+<name>Math 210</name>
+<name>Economics 100</name>
+<name>Art 236</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>105</Student_ID>
+<name>Art 236</name>
+<name>Computer Science 580</name>
+<name>English 203</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>106</Student_ID>
+<name>Psychology 150</name>
+<name>Psychology 206</name>
+<name>Chemistry 600</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>107</Student_ID>
+<name>Psychology 106</name>
+<name>Math 205</name>
+<name>English 203</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>108</Student_ID>
+<name>Religious Studies 120</name>
+<name>Physics 120</name>
+<name>The Community and Justice Studies 160</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>109</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Philosophy 240</name>
+<name>Religious Studies 120</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>110</Student_ID>
+<name>Environment Science 315</name>
+<name>Biology 067</name>
+<name>The Community and Justice Studies 460</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>111</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Art 247</name>
+<name>Psychology 206</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>112</Student_ID>
+<name>Biology 070</name>
+<name>Religious Studies 111</name>
+<name>Philosophy 210</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>113</Student_ID>
+<name>Political Science 140</name>
+<name>Music 107</name>
+<name>Religious Studies 111</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>114</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Art 245</name>
+<name>Art 245</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>115</Student_ID>
+<name>Religious Studies 120</name>
+<name>Philosophy 240</name>
+<name>Environment Science 230</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>116</Student_ID>
+<name>Math 205</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 100</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>117</Student_ID>
+<name>English 200</name>
+<name>Biology 070</name>
+<name>Biology 060</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>118</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Art 231</name>
+<name>Dance and Movement Studies 100</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>119</Student_ID>
+<name>Chemistry 104</name>
+<name>Physics 210</name>
+<name>Psychology 150</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>120</Student_ID>
+<name>Math 205</name>
+<name>Education 100</name>
+<name>Physics 120</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>121</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Art 225</name>
+<name>Computer Science 580</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>122</Student_ID>
+<name>Physics 120</name>
+<name>Biology 067</name>
+<name>Dance and Movement Studies 100</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>123</Student_ID>
+<name>Computer Science 250</name>
+<name>History 101</name>
+<name>Environmental Science 110</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>124</Student_ID>
+<name>Environmental Science 110</name>
+<name>Education 100</name>
+<name>History 101</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>125</Student_ID>
+<name>English 203</name>
+<name>Economics 160</name>
+<name>Computer Science 580</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>126</Student_ID>
+<name>Political Science 110</name>
+<name>The Community and Justice Studies 460</name>
+<name>Art 111</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>127</Student_ID>
+<name>History 119</name>
+<name>Math 160</name>
+<name>Physics 120</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>128</Student_ID>
+<name>Biology 070</name>
+<name>Environment Science 315</name>
+<name>History 101</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>129</Student_ID>
+<name>Political Science 140</name>
+<name>Biology 067</name>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>130</Student_ID>
+<name>Art 110</name>
+<name>Art 231</name>
+<name>The Community and Justice Studies 460</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>131</Student_ID>
+<name>Environment Science 315</name>
+<name>Education 220</name>
+<name>Biology 070</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>132</Student_ID>
+<name>Biology 070</name>
+<name>English 200</name>
+<name>Psychology 150</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>133</Student_ID>
+<name>Economics 101</name>
+<name>Biology 100</name>
+<name>Dance and Movement Studies 102</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>134</Student_ID>
+<name>Political Science 140</name>
+<name>Psychology 150</name>
+<name>Education 220</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>135</Student_ID>
+<name>Geology 108</name>
+<name>Education 220</name>
+<name>Philosophy 210</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>136</Student_ID>
+<name>English 200</name>
+<name>History 110</name>
+<name>The Community and Justice Studies 460</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>137</Student_ID>
+<name>Political Science 140</name>
+<name>Education 100</name>
+<name>Psychology 206</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>138</Student_ID>
+<name>Psychology 206</name>
+<name>Art 225</name>
+<name>Chemistry 600</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>139</Student_ID>
+<name>Chemistry 600</name>
+<name>Music 107</name>
+<name>Communication Arts 611</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>140</Student_ID>
+<name>Economics 101</name>
+<name>Biology 100</name>
+<name>Computer Science 111</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>141</Student_ID>
+<name>Physics 120</name>
+<name>Art 111</name>
+<name>Computer Science 580</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>142</Student_ID>
+<name>Math 210</name>
+<name>Environment Science 230</name>
+<name>Art 247</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>143</Student_ID>
+<name>Biology 067</name>
+<name>History 101</name>
+<name>History 110</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>144</Student_ID>
+<name>Political Science 140</name>
+<name>Physics 120</name>
+<name>Religious Studies 130</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>145</Student_ID>
+<name>Psychology 206</name>
+<name>Political Science 110</name>
+<name>History 110</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>146</Student_ID>
+<name>Biology 100</name>
+<name>Biology 070</name>
+<name>Math 160</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>147</Student_ID>
+<name>Art 241</name>
+<name>Music 107</name>
+<name>Philosophy 210</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>148</Student_ID>
+<name>Geology 108</name>
+<name>The Community and Justice Studies 160</name>
+<name>Geology 250</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>149</Student_ID>
+<name>Music 103</name>
+<name>Biology 070</name>
+<name>Computer Science 250</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>150</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Communication Arts 611</name>
+<name>Geology 250</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>151</Student_ID>
+<name>Chemistry 600</name>
+<name>Computer Science 250</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>152</Student_ID>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+<name>Computer Science 112</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>153</Student_ID>
+<name>Art 241</name>
+<name>Philosophy 210</name>
+<name>Art 110</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>154</Student_ID>
+<name>Computer Science 112</name>
+<name>Art 225</name>
+<name>Computer Science 250</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>155</Student_ID>
+<name>Music 107</name>
+<name>Art 110</name>
+<name>History 110</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>156</Student_ID>
+<name>Art 241</name>
+<name>Economics 101</name>
+<name>Music 103</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>157</Student_ID>
+<name>Chemistry 600</name>
+<name>Environmental Science 110</name>
+<name>Dance and Movement Studies 102</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>158</Student_ID>
+<name>Art 245</name>
+<name>Communciation Arts 120</name>
+<name>Education 100</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>159</Student_ID>
+<name>Art 245</name>
+<name>Physics 120</name>
+<name>Religious Studies 120</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>160</Student_ID>
+<name>Political Science 110</name>
+<name>Biology 100</name>
+<name>Art 225</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>161</Student_ID>
+<name>Education 220</name>
+<name>Education 220</name>
+<name>Computer Science 250</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>162</Student_ID>
+<name>Computer Science 112</name>
+<name>Math 170</name>
+<name>Biology 067</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>163</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>History 110</name>
+<name>Art 111</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>164</Student_ID>
+<name>English 200</name>
+<name>English 203</name>
+<name>Art 231</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>165</Student_ID>
+<name>Economics 101</name>
+<name>Religious Studies 111</name>
+<name>Physics 210</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>166</Student_ID>
+<name>Math 205</name>
+<name>Biology 070</name>
+<name>English 203</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>167</Student_ID>
+<name>Biology 070</name>
+<name>History 119</name>
+<name>Religious Studies 130</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>168</Student_ID>
+<name>Political Science 140</name>
+<name>Computer Science 580</name>
+<name>Art 231</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>169</Student_ID>
+<name>Art 110</name>
+<name>Physics 120</name>
+<name>Psychology 106</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>170</Student_ID>
+<name>Art 111</name>
+<name>Environment Science 230</name>
+<name>The Community and Justice Studies 460</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>171</Student_ID>
+<name>Geology 108</name>
+<name>Economics 100</name>
+<name>Biology 070</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>172</Student_ID>
+<name>Economics 200</name>
+<name>The Community and Justice Studies 460</name>
+<name>Religious Studies 111</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>173</Student_ID>
+<name>Art 247</name>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 112</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>174</Student_ID>
+<name>Philosophy 210</name>
+<name>Chemistry 104</name>
+<name>Communication Arts 611</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>175</Student_ID>
+<name>Music 107</name>
+<name>Art 225</name>
+<name>Environment Science 315</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>176</Student_ID>
+<name>Global Health Studies 130</name>
+<name>The Community and Justice Studies 160</name>
+<name>English 203</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>177</Student_ID>
+<name>Neuroscience 120</name>
+<name>Philosophy 240</name>
+<name>Music 103</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>178</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Geology 108</name>
+<name>Communication Arts 611</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>179</Student_ID>
+<name>Computer Science 111</name>
+<name>Environmental Science 110</name>
+<name>Biology 100</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>180</Student_ID>
+<name>Music 103</name>
+<name>Economics 200</name>
+<name>Neuroscience 120</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>181</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 111</name>
+<name>Dance and Movement Studies 102</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>182</Student_ID>
+<name>Religious Studies 120</name>
+<name>Dance and Movement Studies 100</name>
+<name>Art 231</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>183</Student_ID>
+<name>Math 210</name>
+<name>Philosophy 220</name>
+<name>Art 231</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>184</Student_ID>
+<name>Math 205</name>
+<name>History 119</name>
+<name>Biology 060</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>185</Student_ID>
+<name>Computer Science 250</name>
+<name>Dance and Movement Studies 100</name>
+<name>Religious Studies 130</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>186</Student_ID>
+<name>History 119</name>
+<name>Geology 108</name>
+<name>History 101</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>187</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Religious Studies 111</name>
+<name>Political Science 110</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>188</Student_ID>
+<name>Religious Studies 111</name>
+<name>Biology 100</name>
+<name>Art 110</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>189</Student_ID>
+<name>Economics 200</name>
+<name>Music 107</name>
+<name>Economics 200</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>190</Student_ID>
+<name>Music 107</name>
+<name>Philosophy 240</name>
+<name>Math 170</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>191</Student_ID>
+<name>English 203</name>
+<name>Economics 101</name>
+<name>History 110</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>192</Student_ID>
+<name>Computer Science 250</name>
+<name>Political Science 140</name>
+<name>Political Science 110</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>193</Student_ID>
+<name>English 200</name>
+<name>Environment Science 230</name>
+<name>Math 205</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>194</Student_ID>
+<name>History 110</name>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 101</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>195</Student_ID>
+<name>Math 205</name>
+<name>Art 241</name>
+<name>Math 210</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>196</Student_ID>
+<name>History 101</name>
+<name>Physics 120</name>
+<name>English 200</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>197</Student_ID>
+<name>Art 231</name>
+<name>Psychology 206</name>
+<name>Biology 067</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>198</Student_ID>
+<name>Chemistry 104</name>
+<name>Political Science 110</name>
+<name>Environment Science 230</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>199</Student_ID>
+<name>Philosophy 210</name>
+<name>Art 247</name>
+<name>Philosophy 210</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>200</Student_ID>
+<name>Art 225</name>
+<name>Environmental Science 110</name>
+<name>Philosophy 220</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>201</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Physics 210</name>
+<name>Art 111</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>202</Student_ID>
+<name>Math 160</name>
+<name>Chemistry 104</name>
+<name>Computer Science 112</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>203</Student_ID>
+<name>Art 247</name>
+<name>Dance and Movement Studies 102</name>
+<name>Psychology 106</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>204</Student_ID>
+<name>Biology 070</name>
+<name>Communication Arts 611</name>
+<name>Biology 070</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>205</Student_ID>
+<name>Art 225</name>
+<name>Religious Studies 120</name>
+<name>Physics 120</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>206</Student_ID>
+<name>Religious Studies 111</name>
+<name>Biology 100</name>
+<name>Psychology 150</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>207</Student_ID>
+<name>Math 160</name>
+<name>Neuroscience 120</name>
+<name>Communication Arts 611</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>208</Student_ID>
+<name>Art 231</name>
+<name>Economics 101</name>
+<name>Art 247</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>209</Student_ID>
+<name>Math 210</name>
+<name>The Community and Justice Studies 460</name>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>210</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 101</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>211</Student_ID>
+<name>Physics 120</name>
+<name>Environmental Science 110</name>
+<name>Math 170</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>212</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Computer Science 250</name>
+<name>History 119</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>213</Student_ID>
+<name>Art 112</name>
+<name>Math 210</name>
+<name>Music 107</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>214</Student_ID>
+<name>Math 205</name>
+<name>Art 110</name>
+<name>The Community and Justice Studies 160</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>215</Student_ID>
+<name>Biology 067</name>
+<name>Computer Science 580</name>
+<name>History 119</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>216</Student_ID>
+<name>Computer Science 580</name>
+<name>Art 241</name>
+<name>Economics 160</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>217</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Dance and Movement Studies 102</name>
+<name>English 200</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>218</Student_ID>
+<name>Political Science 140</name>
+<name>Psychology 106</name>
+<name>Computer Science 112</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>219</Student_ID>
+<name>History 110</name>
+<name>Math 210</name>
+<name>Economics 200</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>220</Student_ID>
+<name>History 119</name>
+<name>Religious Studies 111</name>
+<name>Global Health Studies 370</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>221</Student_ID>
+<name>Math 160</name>
+<name>History 101</name>
+<name>Art 247</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>222</Student_ID>
+<name>Environment Science 315</name>
+<name>Religious Studies 111</name>
+<name>Economics 200</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>223</Student_ID>
+<name>History 119</name>
+<name>Communciation Arts 120</name>
+<name>Math 170</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>224</Student_ID>
+<name>Computer Science 112</name>
+<name>Global Health Studies 130</name>
+<name>Biology 100</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>225</Student_ID>
+<name>Economics 200</name>
+<name>English 203</name>
+<name>English 203</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>226</Student_ID>
+<name>Economics 200</name>
+<name>Global Health Studies 370</name>
+<name>Global Health Studies 370</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>227</Student_ID>
+<name>Environment Science 230</name>
+<name>Chemistry 104</name>
+<name>Computer Science 250</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>228</Student_ID>
+<name>Philosophy 210</name>
+<name>Education 220</name>
+<name>Geology 108</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>229</Student_ID>
+<name>Art 111</name>
+<name>Economics 101</name>
+<name>Biology 060</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>230</Student_ID>
+<name>Music 103</name>
+<name>Communciation Arts 120</name>
+<name>Art 110</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>231</Student_ID>
+<name>History 110</name>
+<name>Dance and Movement Studies 102</name>
+<name>Biology 060</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>232</Student_ID>
+<name>Communication Arts 611</name>
+<name>Global Health Studies 130</name>
+<name>Global Health Studies 130</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>233</Student_ID>
+<name>Chemistry 600</name>
+<name>Art 225</name>
+<name>Dance and Movement Studies 102</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>234</Student_ID>
+<name>Art 225</name>
+<name>Art 245</name>
+<name>Communication Arts 611</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>235</Student_ID>
+<name>Music 107</name>
+<name>Chemistry 104</name>
+<name>Economics 100</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>236</Student_ID>
+<name>History 110</name>
+<name>Economics 101</name>
+<name>Math 205</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>237</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Art 112</name>
+<name>Math 205</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>238</Student_ID>
+<name>Art 231</name>
+<name>Philosophy 210</name>
+<name>Chemistry 104</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>239</Student_ID>
+<name>Psychology 150</name>
+<name>Biology 067</name>
+<name>Political Science 110</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>240</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Art 112</name>
+<name>English 203</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>241</Student_ID>
+<name>Philosophy 240</name>
+<name>Environmental Science 110</name>
+<name>Neuroscience 120</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>242</Student_ID>
+<name>Art 245</name>
+<name>Computer Science 112</name>
+<name>Geology 250</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>243</Student_ID>
+<name>Math 170</name>
+<name>Political Science 140</name>
+<name>Geology 250</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>244</Student_ID>
+<name>Environment Science 230</name>
+<name>English 203</name>
+<name>Education 220</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>245</Student_ID>
+<name>Math 205</name>
+<name>Biology 100</name>
+<name>Communciation Arts 120</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>246</Student_ID>
+<name>English 203</name>
+<name>Philosophy 210</name>
+<name>Dance and Movement Studies 100</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>247</Student_ID>
+<name>Economics 160</name>
+<name>Music 107</name>
+<name>Dance and Movement Studies 100</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>248</Student_ID>
+<name>Art 225</name>
+<name>Psychology 206</name>
+<name>Environment Science 315</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>249</Student_ID>
+<name>Physics 120</name>
+<name>Music 103</name>
+<name>Computer Science 112</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>250</Student_ID>
+<name>Art 245</name>
+<name>History 119</name>
+<name>Art 231</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>251</Student_ID>
+<name>Physics 120</name>
+<name>Political Science 110</name>
+<name>Biology 067</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>252</Student_ID>
+<name>Art 112</name>
+<name>The Community and Justice Studies 460</name>
+<name>English 203</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>253</Student_ID>
+<name>Art 241</name>
+<name>Environmental Science 110</name>
+<name>Philosophy 240</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>254</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Art 225</name>
+<name>Psychology 106</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>255</Student_ID>
+<name>Philosophy 220</name>
+<name>Political Science 140</name>
+<name>Music 107</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>256</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Religious Studies 130</name>
+<name>Global Health Studies 370</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>257</Student_ID>
+<name>Environmental Science 110</name>
+<name>Biology 067</name>
+<name>Religious Studies 111</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>258</Student_ID>
+<name>Philosophy 240</name>
+<name>Physics 210</name>
+<name>Art 112</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>259</Student_ID>
+<name>Religious Studies 111</name>
+<name>History 110</name>
+<name>Environmental Science 110</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>260</Student_ID>
+<name>Philosophy 240</name>
+<name>Religious Studies 130</name>
+<name>Music 103</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>261</Student_ID>
+<name>Art 111</name>
+<name>Art 245</name>
+<name>Art 112</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>262</Student_ID>
+<name>Music 107</name>
+<name>Philosophy 220</name>
+<name>English 200</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>263</Student_ID>
+<name>Communication Arts 611</name>
+<name>Education 220</name>
+<name>Math 210</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>264</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Psychology 106</name>
+<name>Education 100</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>265</Student_ID>
+<name>Psychology 150</name>
+<name>Political Science 110</name>
+<name>Biology 060</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>266</Student_ID>
+<name>Physics 210</name>
+<name>Biology 067</name>
+<name>Economics 101</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>267</Student_ID>
+<name>Religious Studies 130</name>
+<name>Environmental Science 110</name>
+<name>Computer Science 111</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>268</Student_ID>
+<name>Music 103</name>
+<name>Philosophy 240</name>
+<name>Psychology 206</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>269</Student_ID>
+<name>Art 110</name>
+<name>Global Health Studies 130</name>
+<name>History 119</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>270</Student_ID>
+<name>Math 160</name>
+<name>Communication Arts 611</name>
+<name>Art 247</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>271</Student_ID>
+<name>Philosophy 220</name>
+<name>Physics 210</name>
+<name>Global Health Studies 130</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>272</Student_ID>
+<name>Computer Science 112</name>
+<name>Physics 210</name>
+<name>History 101</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>273</Student_ID>
+<name>Physics 120</name>
+<name>Art 225</name>
+<name>Political Science 140</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>274</Student_ID>
+<name>Music 103</name>
+<name>Economics 100</name>
+<name>English 203</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>275</Student_ID>
+<name>Communication Arts 611</name>
+<name>Physics 120</name>
+<name>Art 111</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>276</Student_ID>
+<name>Psychology 206</name>
+<name>Global Health Studies 130</name>
+<name>Biology 060</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>277</Student_ID>
+<name>Environmental Science 110</name>
+<name>Math 205</name>
+<name>Art 247</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>278</Student_ID>
+<name>Art 247</name>
+<name>Neuroscience 120</name>
+<name>The Community and Justice Studies 160</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>279</Student_ID>
+<name>History 119</name>
+<name>The Community and Justice Studies 160</name>
+<name>Education 220</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>280</Student_ID>
+<name>Music 103</name>
+<name>Math 210</name>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>281</Student_ID>
+<name>Computer Science 580</name>
+<name>Psychology 206</name>
+<name>Economics 100</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>282</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Geology 250</name>
+<name>Geology 108</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>283</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Biology 067</name>
+<name>English 200</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>284</Student_ID>
+<name>Art 225</name>
+<name>Physics 120</name>
+<name>Global Health Studies 130</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>285</Student_ID>
+<name>Education 100</name>
+<name>Education 100</name>
+<name>Chemistry 600</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>286</Student_ID>
+<name>Art 111</name>
+<name>Math 320</name>
+<name>Neuroscience 120</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>287</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Chemistry 104</name>
+<name>Environment Science 315</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>288</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Art 231</name>
+<name>Philosophy 210</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>289</Student_ID>
+<name>Computer Science 250</name>
+<name>Chemistry 104</name>
+<name>Art 112</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>290</Student_ID>
+<name>Math 170</name>
+<name>Art 231</name>
+<name>Geology 108</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>291</Student_ID>
+<name>Geology 250</name>
+<name>Art 231</name>
+<name>Psychology 150</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>292</Student_ID>
+<name>Political Science 110</name>
+<name>Art 236</name>
+<name>Philosophy 220</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>293</Student_ID>
+<name>Physics 210</name>
+<name>History 119</name>
+<name>Physics 120</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>294</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Philosophy 240</name>
+<name>Art 245</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>295</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Global Health Studies 130</name>
+<name>English 200</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>296</Student_ID>
+<name>Art 231</name>
+<name>The Community and Justice Studies 460</name>
+<name>Math 170</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>297</Student_ID>
+<name>Neuroscience 120</name>
+<name>Chemistry 104</name>
+<name>Math 205</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>298</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Environment Science 230</name>
+<name>Math 205</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>299</Student_ID>
+<name>Geology 250</name>
+<name>Psychology 206</name>
+<name>Biology 067</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>300</Student_ID>
+<name>Philosophy 240</name>
+<name>Physics 120</name>
+<name>Philosophy 210</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>301</Student_ID>
+<name>Psychology 150</name>
+<name>Art 225</name>
+<name>Math 160</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>302</Student_ID>
+<name>Neuroscience 120</name>
+<name>Biology 070</name>
+<name>Art 231</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>303</Student_ID>
+<name>Philosophy 240</name>
+<name>Math 320</name>
+<name>Philosophy 220</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>304</Student_ID>
+<name>Computer Science 250</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 231</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>305</Student_ID>
+<name>Neuroscience 120</name>
+<name>Chemistry 600</name>
+<name>Dance and Movement Studies 101</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>306</Student_ID>
+<name>Environmental Science 110</name>
+<name>Dance and Movement Studies 101</name>
+<name>The Community and Justice Studies 460</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>307</Student_ID>
+<name>Computer Science 580</name>
+<name>The Community and Justice Studies 160</name>
+<name>Art 241</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>308</Student_ID>
+<name>Religious Studies 120</name>
+<name>Math 170</name>
+<name>History 110</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>309</Student_ID>
+<name>Computer Science 111</name>
+<name>Art 112</name>
+<name>Math 160</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>310</Student_ID>
+<name>History 119</name>
+<name>Art 241</name>
+<name>Art 231</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>311</Student_ID>
+<name>Religious Studies 120</name>
+<name>Psychology 106</name>
+<name>History 119</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>312</Student_ID>
+<name>Economics 160</name>
+<name>Math 205</name>
+<name>Computer Science 580</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>313</Student_ID>
+<name>Computer Science 112</name>
+<name>English 200</name>
+<name>Biology 100</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>314</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Religious Studies 111</name>
+<name>Political Science 140</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>315</Student_ID>
+<name>Political Science 140</name>
+<name>Philosophy 240</name>
+<name>Communciation Arts 120</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>316</Student_ID>
+<name>Music 103</name>
+<name>Physics 210</name>
+<name>Communication Arts 611</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>317</Student_ID>
+<name>Music 107</name>
+<name>Global Health Studies 130</name>
+<name>Communciation Arts 120</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>318</Student_ID>
+<name>Computer Science 112</name>
+<name>The Community and Justice Studies 460</name>
+<name>Psychology 106</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>319</Student_ID>
+<name>Math 210</name>
+<name>Music 107</name>
+<name>The Community and Justice Studies 460</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>320</Student_ID>
+<name>Environment Science 230</name>
+<name>Philosophy 210</name>
+<name>Geology 250</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>321</Student_ID>
+<name>Physics 210</name>
+<name>Psychology 150</name>
+<name>Music 107</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>322</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Communciation Arts 120</name>
+<name>Economics 160</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>323</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>324</Student_ID>
+<name>Computer Science 112</name>
+<name>The Community and Justice Studies 460</name>
+<name>Chemistry 600</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>325</Student_ID>
+<name>Art 111</name>
+<name>Chemistry 600</name>
+<name>Environment Science 315</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>326</Student_ID>
+<name>Biology 060</name>
+<name>Psychology 106</name>
+<name>Music 103</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>327</Student_ID>
+<name>Computer Science 112</name>
+<name>Global Health Studies 370</name>
+<name>Physics 120</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>328</Student_ID>
+<name>Psychology 150</name>
+<name>Global Health Studies 370</name>
+<name>Biology 070</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>329</Student_ID>
+<name>Political Science 140</name>
+<name>Philosophy 240</name>
+<name>Art 231</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>330</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Dance and Movement Studies 100</name>
+<name>Chemistry 104</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>331</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Dance and Movement Studies 101</name>
+<name>Psychology 150</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>332</Student_ID>
+<name>Math 170</name>
+<name>Math 210</name>
+<name>Communciation Arts 120</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>333</Student_ID>
+<name>Philosophy 220</name>
+<name>Math 170</name>
+<name>Economics 101</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>334</Student_ID>
+<name>Geology 108</name>
+<name>Biology 060</name>
+<name>Art 112</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>335</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Art 247</name>
+<name>Environment Science 230</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>336</Student_ID>
+<name>Art 111</name>
+<name>Biology 060</name>
+<name>Computer Science 111</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>337</Student_ID>
+<name>Religious Studies 130</name>
+<name>History 101</name>
+<name>Art 241</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>338</Student_ID>
+<name>Economics 100</name>
+<name>Dance and Movement Studies 102</name>
+<name>Psychology 150</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>339</Student_ID>
+<name>Neuroscience 120</name>
+<name>Dance and Movement Studies 102</name>
+<name>Dance and Movement Studies 101</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>340</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Neuroscience 120</name>
+<name>The Community and Justice Studies 160</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>341</Student_ID>
+<name>History 110</name>
+<name>Art 245</name>
+<name>Computer Science 111</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>342</Student_ID>
+<name>Art 110</name>
+<name>Economics 101</name>
+<name>Dance and Movement Studies 102</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>343</Student_ID>
+<name>Education 100</name>
+<name>Communication Arts 611</name>
+<name>Communciation Arts 120</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>344</Student_ID>
+<name>Art 245</name>
+<name>Geology 108</name>
+<name>Art 231</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>345</Student_ID>
+<name>Political Science 140</name>
+<name>Political Science 140</name>
+<name>Philosophy 220</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>346</Student_ID>
+<name>Education 220</name>
+<name>Dance and Movement Studies 101</name>
+<name>Math 320</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>347</Student_ID>
+<name>Math 210</name>
+<name>Computer Science 250</name>
+<name>Environment Science 230</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>348</Student_ID>
+<name>Political Science 110</name>
+<name>Music 107</name>
+<name>Dance and Movement Studies 100</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>349</Student_ID>
+<name>Biology 100</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 220</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>350</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Chemistry 104</name>
+<name>Economics 100</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>351</Student_ID>
+<name>Art 112</name>
+<name>Global Health Studies 370</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>352</Student_ID>
+<name>Environment Science 315</name>
+<name>Global Health Studies 370</name>
+<name>Economics 160</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>353</Student_ID>
+<name>Biology 060</name>
+<name>Music 103</name>
+<name>Education 220</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>354</Student_ID>
+<name>Art 111</name>
+<name>The Community and Justice Studies 160</name>
+<name>Biology 070</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>355</Student_ID>
+<name>Psychology 106</name>
+<name>The Community and Justice Studies 160</name>
+<name>Art 111</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>356</Student_ID>
+<name>Education 220</name>
+<name>Computer Science 250</name>
+<name>Economics 160</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>357</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Art 110</name>
+<name>History 101</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>358</Student_ID>
+<name>Art 231</name>
+<name>Environment Science 230</name>
+<name>Environment Science 315</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>359</Student_ID>
+<name>Music 107</name>
+<name>Geology 108</name>
+<name>Art 236</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>360</Student_ID>
+<name>Religious Studies 130</name>
+<name>Economics 160</name>
+<name>Math 160</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>361</Student_ID>
+<name>Philosophy 220</name>
+<name>Art 245</name>
+<name>Art 112</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>362</Student_ID>
+<name>Art 241</name>
+<name>Biology 070</name>
+<name>Art 225</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>363</Student_ID>
+<name>Art 225</name>
+<name>Global Health Studies 370</name>
+<name>Art 236</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>364</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Biology 070</name>
+<name>Environment Science 230</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>365</Student_ID>
+<name>Math 170</name>
+<name>The Community and Justice Studies 160</name>
+<name>English 200</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>366</Student_ID>
+<name>Computer Science 112</name>
+<name>Computer Science 111</name>
+<name>Art 236</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>367</Student_ID>
+<name>Biology 100</name>
+<name>Economics 160</name>
+<name>History 101</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>368</Student_ID>
+<name>Music 107</name>
+<name>Environment Science 315</name>
+<name>Art 231</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>369</Student_ID>
+<name>Math 210</name>
+<name>Religious Studies 111</name>
+<name>Economics 100</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>370</Student_ID>
+<name>Art 245</name>
+<name>Global Health Studies 130</name>
+<name>Education 100</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>371</Student_ID>
+<name>English 200</name>
+<name>Biology 070</name>
+<name>Art 110</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>372</Student_ID>
+<name>Computer Science 112</name>
+<name>Environment Science 315</name>
+<name>Psychology 150</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>373</Student_ID>
+<name>History 110</name>
+<name>Physics 210</name>
+<name>Political Science 110</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>374</Student_ID>
+<name>Political Science 140</name>
+<name>Math 205</name>
+<name>Environment Science 315</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>375</Student_ID>
+<name>Neuroscience 120</name>
+<name>Philosophy 210</name>
+<name>Economics 101</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>376</Student_ID>
+<name>Education 220</name>
+<name>Philosophy 220</name>
+<name>Education 220</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>377</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Philosophy 220</name>
+<name>Education 100</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>378</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Art 110</name>
+<name>Music 103</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>379</Student_ID>
+<name>Religious Studies 130</name>
+<name>Philosophy 210</name>
+<name>The Community and Justice Studies 160</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>380</Student_ID>
+<name>Math 320</name>
+<name>Math 170</name>
+<name>Physics 210</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>381</Student_ID>
+<name>Physics 120</name>
+<name>Art 236</name>
+<name>Philosophy 220</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>382</Student_ID>
+<name>Math 320</name>
+<name>Philosophy 240</name>
+<name>Psychology 106</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>383</Student_ID>
+<name>Biology 070</name>
+<name>Environmental Science 110</name>
+<name>Religious Studies 130</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>384</Student_ID>
+<name>Math 320</name>
+<name>Art 110</name>
+<name>History 110</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>385</Student_ID>
+<name>Biology 070</name>
+<name>Political Science 110</name>
+<name>Art 236</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>386</Student_ID>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+<name>Biology 100</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>387</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Art 111</name>
+<name>Art 247</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>388</Student_ID>
+<name>Education 100</name>
+<name>Physics 210</name>
+<name>Chemistry 600</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>389</Student_ID>
+<name>Biology 067</name>
+<name>Art 110</name>
+<name>Art 112</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>390</Student_ID>
+<name>Computer Science 112</name>
+<name>Math 320</name>
+<name>Art 110</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>391</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Education 100</name>
+<name>Geology 108</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>392</Student_ID>
+<name>Art 247</name>
+<name>Economics 101</name>
+<name>The Community and Justice Studies 160</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>393</Student_ID>
+<name>Geology 108</name>
+<name>Economics 200</name>
+<name>Music 103</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>394</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Geology 250</name>
+<name>Art 245</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>395</Student_ID>
+<name>History 110</name>
+<name>Art 231</name>
+<name>Art 110</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>396</Student_ID>
+<name>English 203</name>
+<name>Political Science 140</name>
+<name>Geology 250</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>397</Student_ID>
+<name>Computer Science 111</name>
+<name>Global Health Studies 130</name>
+<name>Math 210</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>398</Student_ID>
+<name>Art 236</name>
+<name>Physics 210</name>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>399</Student_ID>
+<name>Biology 070</name>
+<name>Physics 120</name>
+<name>Art 241</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>400</Student_ID>
+<name>Chemistry 600</name>
+<name>Computer Science 580</name>
+<name>Global Health Studies 370</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>401</Student_ID>
+<name>Art 245</name>
+<name>Communciation Arts 120</name>
+<name>Economics 100</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>402</Student_ID>
+<name>Math 170</name>
+<name>Psychology 206</name>
+<name>Economics 160</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>403</Student_ID>
+<name>Art 111</name>
+<name>Art 241</name>
+<name>Biology 070</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>404</Student_ID>
+<name>Art 225</name>
+<name>Philosophy 210</name>
+<name>Environment Science 230</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>405</Student_ID>
+<name>Math 205</name>
+<name>Environment Science 315</name>
+<name>Communication Arts 611</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>406</Student_ID>
+<name>Geology 250</name>
+<name>Global Health Studies 130</name>
+<name>Art 225</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>407</Student_ID>
+<name>Art 247</name>
+<name>Neuroscience 120</name>
+<name>Neuroscience 120</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>408</Student_ID>
+<name>Music 107</name>
+<name>Economics 200</name>
+<name>Chemistry 600</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>409</Student_ID>
+<name>Economics 200</name>
+<name>Music 103</name>
+<name>Math 170</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>410</Student_ID>
+<name>History 110</name>
+<name>Environment Science 230</name>
+<name>Neuroscience 120</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>411</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Math 210</name>
+<name>Economics 160</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>412</Student_ID>
+<name>Biology 067</name>
+<name>Art 111</name>
+<name>Art 110</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>413</Student_ID>
+<name>History 110</name>
+<name>Economics 100</name>
+<name>Environment Science 315</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>414</Student_ID>
+<name>Philosophy 210</name>
+<name>Religious Studies 130</name>
+<name>Art 245</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>415</Student_ID>
+<name>Economics 101</name>
+<name>Political Science 110</name>
+<name>Biology 100</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>416</Student_ID>
+<name>Chemistry 104</name>
+<name>Art 225</name>
+<name>Music 107</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>417</Student_ID>
+<name>Math 210</name>
+<name>History 110</name>
+<name>Economics 101</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>418</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>History 101</name>
+<name>Art 112</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>419</Student_ID>
+<name>Math 210</name>
+<name>Math 170</name>
+<name>Art 110</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>420</Student_ID>
+<name>Art 225</name>
+<name>Art 111</name>
+<name>Physics 210</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>421</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Communication Arts 611</name>
+<name>Physics 210</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>422</Student_ID>
+<name>Religious Studies 120</name>
+<name>Economics 101</name>
+<name>Computer Science 111</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>423</Student_ID>
+<name>Chemistry 600</name>
+<name>Environment Science 230</name>
+<name>Art 231</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>424</Student_ID>
+<name>Biology 070</name>
+<name>Art 112</name>
+<name>Economics 160</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>425</Student_ID>
+<name>Economics 100</name>
+<name>Psychology 150</name>
+<name>Philosophy 210</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>426</Student_ID>
+<name>Computer Science 111</name>
+<name>Physics 120</name>
+<name>Chemistry 104</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>427</Student_ID>
+<name>Political Science 110</name>
+<name>Art 245</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>428</Student_ID>
+<name>Biology 100</name>
+<name>Biology 067</name>
+<name>The Community and Justice Studies 160</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>429</Student_ID>
+<name>Art 225</name>
+<name>Art 241</name>
+<name>Education 100</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>430</Student_ID>
+<name>Math 160</name>
+<name>Music 103</name>
+<name>Philosophy 220</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>431</Student_ID>
+<name>Art 236</name>
+<name>Philosophy 210</name>
+<name>Global Health Studies 130</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>432</Student_ID>
+<name>Biology 100</name>
+<name>Art 241</name>
+<name>Art 231</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>433</Student_ID>
+<name>Psychology 150</name>
+<name>Global Health Studies 130</name>
+<name>Computer Science 112</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>434</Student_ID>
+<name>Math 170</name>
+<name>Environmental Science 110</name>
+<name>Biology 060</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>435</Student_ID>
+<name>Geology 108</name>
+<name>Education 220</name>
+<name>Economics 100</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>436</Student_ID>
+<name>Religious Studies 120</name>
+<name>Religious Studies 130</name>
+<name>The Community and Justice Studies 460</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>437</Student_ID>
+<name>Computer Science 580</name>
+<name>Environment Science 230</name>
+<name>Chemistry 600</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>438</Student_ID>
+<name>Music 107</name>
+<name>Art 231</name>
+<name>Music 107</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>439</Student_ID>
+<name>Psychology 206</name>
+<name>Economics 160</name>
+<name>English 200</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>440</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Environment Science 230</name>
+<name>Art 110</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>441</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Philosophy 220</name>
+<name>Math 160</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>442</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Dance and Movement Studies 102</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>443</Student_ID>
+<name>Art 111</name>
+<name>Computer Science 250</name>
+<name>Economics 100</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>444</Student_ID>
+<name>Art 225</name>
+<name>Art 112</name>
+<name>Environmental Science 110</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>445</Student_ID>
+<name>Religious Studies 130</name>
+<name>Art 112</name>
+<name>Art 247</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>446</Student_ID>
+<name>Art 110</name>
+<name>Computer Science 250</name>
+<name>Philosophy 220</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>447</Student_ID>
+<name>Computer Science 111</name>
+<name>Art 236</name>
+<name>Economics 100</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>448</Student_ID>
+<name>Math 170</name>
+<name>Psychology 206</name>
+<name>Philosophy 240</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>449</Student_ID>
+<name>Art 110</name>
+<name>Computer Science 112</name>
+<name>History 119</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>450</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Political Science 140</name>
+<name>Education 220</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>451</Student_ID>
+<name>Biology 060</name>
+<name>Art 111</name>
+<name>Dance and Movement Studies 101</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>452</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Philosophy 220</name>
+<name>Math 320</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>453</Student_ID>
+<name>Art 231</name>
+<name>History 101</name>
+<name>Economics 101</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>454</Student_ID>
+<name>Religious Studies 120</name>
+<name>Chemistry 104</name>
+<name>Neuroscience 120</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>455</Student_ID>
+<name>Art 112</name>
+<name>Religious Studies 120</name>
+<name>Biology 070</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>456</Student_ID>
+<name>Math 210</name>
+<name>Religious Studies 130</name>
+<name>Environment Science 230</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>457</Student_ID>
+<name>Economics 160</name>
+<name>Psychology 106</name>
+<name>Geology 250</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>458</Student_ID>
+<name>Religious Studies 130</name>
+<name>The Community and Justice Studies 460</name>
+<name>The Community and Justice Studies 460</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>459</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Physics 120</name>
+<name>Computer Science 250</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>460</Student_ID>
+<name>Math 170</name>
+<name>Computer Science 112</name>
+<name>History 110</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>461</Student_ID>
+<name>Philosophy 240</name>
+<name>Computer Science 112</name>
+<name>Art 112</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>462</Student_ID>
+<name>Economics 200</name>
+<name>Art 111</name>
+<name>Art 236</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>463</Student_ID>
+<name>Art 225</name>
+<name>Global Health Studies 130</name>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>464</Student_ID>
+<name>English 200</name>
+<name>Physics 210</name>
+<name>Math 170</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>465</Student_ID>
+<name>Economics 101</name>
+<name>Music 103</name>
+<name>Math 205</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>466</Student_ID>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+<name>Political Science 110</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>467</Student_ID>
+<name>History 110</name>
+<name>Communication Arts 611</name>
+<name>Neuroscience 120</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>468</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Political Science 140</name>
+<name>Philosophy 240</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>469</Student_ID>
+<name>Religious Studies 130</name>
+<name>History 119</name>
+<name>Biology 070</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>470</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Psychology 206</name>
+<name>The Community and Justice Studies 460</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>471</Student_ID>
+<name>Philosophy 240</name>
+<name>Music 103</name>
+<name>Geology 250</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>472</Student_ID>
+<name>Physics 120</name>
+<name>History 101</name>
+<name>Biology 067</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>473</Student_ID>
+<name>Art 111</name>
+<name>Political Science 140</name>
+<name>Math 170</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>474</Student_ID>
+<name>Art 231</name>
+<name>Economics 200</name>
+<name>Philosophy 210</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>475</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 580</name>
+<name>Communciation Arts 120</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>476</Student_ID>
+<name>English 200</name>
+<name>Dance and Movement Studies 101</name>
+<name>Biology 070</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>477</Student_ID>
+<name>Math 320</name>
+<name>Communciation Arts 120</name>
+<name>English 203</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>478</Student_ID>
+<name>Economics 101</name>
+<name>Art 111</name>
+<name>Environment Science 315</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>479</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Biology 060</name>
+<name>Environment Science 230</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>480</Student_ID>
+<name>Computer Science 111</name>
+<name>Music 103</name>
+<name>Math 170</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>481</Student_ID>
+<name>History 119</name>
+<name>Education 220</name>
+<name>Environmental Science 110</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>482</Student_ID>
+<name>Chemistry 600</name>
+<name>Political Science 140</name>
+<name>Communciation Arts 120</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>483</Student_ID>
+<name>Math 320</name>
+<name>Religious Studies 111</name>
+<name>Music 103</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>484</Student_ID>
+<name>Philosophy 220</name>
+<name>Philosophy 240</name>
+<name>Computer Science 112</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>485</Student_ID>
+<name>Math 320</name>
+<name>Economics 101</name>
+<name>History 101</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>486</Student_ID>
+<name>Music 103</name>
+<name>Philosophy 220</name>
+<name>Communciation Arts 120</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>487</Student_ID>
+<name>Music 103</name>
+<name>English 200</name>
+<name>Education 220</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>488</Student_ID>
+<name>Religious Studies 120</name>
+<name>Religious Studies 120</name>
+<name>Art 247</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>489</Student_ID>
+<name>Math 170</name>
+<name>Economics 160</name>
+<name>Math 205</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>490</Student_ID>
+<name>Math 210</name>
+<name>Religious Studies 111</name>
+<name>Psychology 106</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>491</Student_ID>
+<name>Physics 120</name>
+<name>Education 220</name>
+<name>Political Science 140</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>492</Student_ID>
+<name>Physics 210</name>
+<name>English 203</name>
+<name>Dance and Movement Studies 102</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>493</Student_ID>
+<name>Psychology 206</name>
+<name>Environment Science 315</name>
+<name>Philosophy 240</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>494</Student_ID>
+<name>Psychology 206</name>
+<name>History 110</name>
+<name>Chemistry 104</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>495</Student_ID>
+<name>Art 231</name>
+<name>Neuroscience 120</name>
+<name>Education 220</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>496</Student_ID>
+<name>Music 103</name>
+<name>History 119</name>
+<name>The Community and Justice Studies 460</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>497</Student_ID>
+<name>Art 231</name>
+<name>History 119</name>
+<name>Art 112</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>498</Student_ID>
+<name>Math 170</name>
+<name>Environmental Science 110</name>
+<name>Computer Science 580</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>499</Student_ID>
+<name>Art 111</name>
+<name>Computer Science 112</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>500</Student_ID>
+<name>Math 205</name>
+<name>Art 241</name>
+<name>Philosophy 240</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>501</Student_ID>
+<name>Philosophy 220</name>
+<name>Philosophy 240</name>
+<name>Chemistry 600</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>502</Student_ID>
+<name>Psychology 106</name>
+<name>Economics 200</name>
+<name>Chemistry 600</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>503</Student_ID>
+<name>Computer Science 250</name>
+<name>Art 241</name>
+<name>Computer Science 112</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>504</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Geology 250</name>
+<name>Math 320</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>505</Student_ID>
+<name>Chemistry 600</name>
+<name>Global Health Studies 370</name>
+<name>Chemistry 600</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>506</Student_ID>
+<name>Psychology 106</name>
+<name>Global Health Studies 130</name>
+<name>Math 170</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>507</Student_ID>
+<name>Art 245</name>
+<name>Education 100</name>
+<name>Religious Studies 111</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>508</Student_ID>
+<name>Computer Science 112</name>
+<name>Math 210</name>
+<name>Political Science 140</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>509</Student_ID>
+<name>Psychology 150</name>
+<name>Music 103</name>
+<name>Biology 070</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>510</Student_ID>
+<name>Physics 120</name>
+<name>Computer Science 580</name>
+<name>Environment Science 230</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>511</Student_ID>
+<name>Art 236</name>
+<name>Chemistry 104</name>
+<name>Philosophy 220</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>512</Student_ID>
+<name>Computer Science 111</name>
+<name>Math 160</name>
+<name>Computer Science 580</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>513</Student_ID>
+<name>Environment Science 315</name>
+<name>Music 107</name>
+<name>Environmental Science 110</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>514</Student_ID>
+<name>Religious Studies 130</name>
+<name>Art 111</name>
+<name>Political Science 140</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>515</Student_ID>
+<name>Music 103</name>
+<name>Dance and Movement Studies 100</name>
+<name>Philosophy 210</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>516</Student_ID>
+<name>Philosophy 240</name>
+<name>Physics 210</name>
+<name>History 119</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>517</Student_ID>
+<name>Math 170</name>
+<name>Math 160</name>
+<name>Dance and Movement Studies 102</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>518</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>History 119</name>
+<name>Religious Studies 120</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>519</Student_ID>
+<name>Math 160</name>
+<name>Physics 120</name>
+<name>Art 110</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>520</Student_ID>
+<name>Geology 108</name>
+<name>Art 225</name>
+<name>Art 247</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>521</Student_ID>
+<name>Physics 210</name>
+<name>Psychology 150</name>
+<name>Chemistry 104</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>522</Student_ID>
+<name>Geology 108</name>
+<name>Communciation Arts 120</name>
+<name>Environment Science 230</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>523</Student_ID>
+<name>Neuroscience 120</name>
+<name>Art 111</name>
+<name>The Community and Justice Studies 460</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>524</Student_ID>
+<name>Philosophy 210</name>
+<name>Art 112</name>
+<name>Art 111</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>525</Student_ID>
+<name>History 110</name>
+<name>Dance and Movement Studies 100</name>
+<name>Philosophy 220</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>526</Student_ID>
+<name>Philosophy 240</name>
+<name>Physics 210</name>
+<name>Geology 108</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>527</Student_ID>
+<name>Art 110</name>
+<name>Art 110</name>
+<name>Economics 100</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>528</Student_ID>
+<name>Biology 060</name>
+<name>Chemistry 104</name>
+<name>Computer Science 250</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>529</Student_ID>
+<name>Education 220</name>
+<name>Physics 210</name>
+<name>Geology 250</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>530</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Economics 100</name>
+<name>Religious Studies 130</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>531</Student_ID>
+<name>Economics 101</name>
+<name>Computer Science 580</name>
+<name>Dance and Movement Studies 102</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>532</Student_ID>
+<name>History 110</name>
+<name>History 110</name>
+<name>Biology 070</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>533</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Music 107</name>
+<name>Education 220</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>534</Student_ID>
+<name>Economics 101</name>
+<name>Political Science 110</name>
+<name>History 101</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>535</Student_ID>
+<name>Geology 250</name>
+<name>Environment Science 315</name>
+<name>Education 220</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>536</Student_ID>
+<name>Economics 100</name>
+<name>Philosophy 210</name>
+<name>Religious Studies 120</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>537</Student_ID>
+<name>Art 231</name>
+<name>History 119</name>
+<name>Dance and Movement Studies 101</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>538</Student_ID>
+<name>Environmental Science 110</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 241</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>539</Student_ID>
+<name>Philosophy 210</name>
+<name>Physics 210</name>
+<name>Art 112</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>540</Student_ID>
+<name>Art 110</name>
+<name>Communciation Arts 120</name>
+<name>Biology 067</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>541</Student_ID>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 100</name>
+<name>Art 245</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>542</Student_ID>
+<name>Geology 250</name>
+<name>Chemistry 104</name>
+<name>Communication Arts 611</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>543</Student_ID>
+<name>Geology 108</name>
+<name>Biology 100</name>
+<name>Biology 067</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>544</Student_ID>
+<name>Art 112</name>
+<name>Political Science 140</name>
+<name>Chemistry 600</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>545</Student_ID>
+<name>Economics 101</name>
+<name>Chemistry 600</name>
+<name>English 200</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>546</Student_ID>
+<name>History 119</name>
+<name>Religious Studies 111</name>
+<name>Economics 100</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>547</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Economics 200</name>
+<name>Environmental Science 110</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>548</Student_ID>
+<name>Math 320</name>
+<name>Communication Arts 611</name>
+<name>Math 205</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>549</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Religious Studies 130</name>
+<name>History 119</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>550</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Education 100</name>
+<name>Economics 200</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>551</Student_ID>
+<name>Psychology 106</name>
+<name>Education 100</name>
+<name>Economics 100</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>552</Student_ID>
+<name>Computer Science 112</name>
+<name>Chemistry 104</name>
+<name>Computer Science 250</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>553</Student_ID>
+<name>Religious Studies 130</name>
+<name>Music 107</name>
+<name>Physics 120</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>554</Student_ID>
+<name>Economics 160</name>
+<name>Dance and Movement Studies 100</name>
+<name>History 119</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>555</Student_ID>
+<name>Economics 160</name>
+<name>Math 210</name>
+<name>Art 247</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>556</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Art 236</name>
+<name>Communciation Arts 120</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>557</Student_ID>
+<name>Biology 067</name>
+<name>Chemistry 600</name>
+<name>Math 205</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>558</Student_ID>
+<name>Neuroscience 120</name>
+<name>Philosophy 240</name>
+<name>Education 220</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>559</Student_ID>
+<name>Communication Arts 611</name>
+<name>Computer Science 250</name>
+<name>Art 247</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>560</Student_ID>
+<name>Computer Science 111</name>
+<name>Biology 070</name>
+<name>English 203</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>561</Student_ID>
+<name>Art 241</name>
+<name>Computer Science 580</name>
+<name>Biology 060</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>562</Student_ID>
+<name>Psychology 150</name>
+<name>History 101</name>
+<name>Art 245</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>563</Student_ID>
+<name>Economics 160</name>
+<name>Art 245</name>
+<name>Math 160</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>564</Student_ID>
+<name>Environment Science 315</name>
+<name>Economics 101</name>
+<name>Biology 067</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>565</Student_ID>
+<name>Economics 200</name>
+<name>Computer Science 112</name>
+<name>Environment Science 315</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>566</Student_ID>
+<name>Art 111</name>
+<name>Art 112</name>
+<name>Art 245</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>567</Student_ID>
+<name>English 200</name>
+<name>Math 160</name>
+<name>Math 205</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>568</Student_ID>
+<name>Environment Science 315</name>
+<name>Art 245</name>
+<name>Education 100</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>569</Student_ID>
+<name>Art 111</name>
+<name>Dance and Movement Studies 101</name>
+<name>Communication Arts 611</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>570</Student_ID>
+<name>Neuroscience 120</name>
+<name>The Community and Justice Studies 160</name>
+<name>Psychology 206</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>571</Student_ID>
+<name>Philosophy 240</name>
+<name>Philosophy 210</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>572</Student_ID>
+<name>Environment Science 315</name>
+<name>Biology 100</name>
+<name>Chemistry 600</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>573</Student_ID>
+<name>Global Health Studies 130</name>
+<name>English 203</name>
+<name>Economics 101</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>574</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Math 160</name>
+<name>History 110</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>575</Student_ID>
+<name>English 203</name>
+<name>Chemistry 600</name>
+<name>The Community and Justice Studies 160</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>576</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Psychology 206</name>
+<name>English 200</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>577</Student_ID>
+<name>Political Science 140</name>
+<name>Religious Studies 130</name>
+<name>History 101</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>578</Student_ID>
+<name>Biology 070</name>
+<name>Art 231</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>579</Student_ID>
+<name>Environment Science 230</name>
+<name>Environment Science 230</name>
+<name>Global Health Studies 370</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>580</Student_ID>
+<name>Environmental Science 110</name>
+<name>Math 160</name>
+<name>Global Health Studies 130</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>581</Student_ID>
+<name>English 203</name>
+<name>Psychology 150</name>
+<name>Biology 100</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>582</Student_ID>
+<name>Art 111</name>
+<name>Music 103</name>
+<name>Dance and Movement Studies 100</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>583</Student_ID>
+<name>Physics 120</name>
+<name>Political Science 110</name>
+<name>Dance and Movement Studies 102</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>584</Student_ID>
+<name>Art 110</name>
+<name>Art 236</name>
+<name>Environment Science 230</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>585</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Math 170</name>
+<name>Environmental Science 110</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>586</Student_ID>
+<name>Philosophy 240</name>
+<name>Political Science 140</name>
+<name>Economics 101</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>587</Student_ID>
+<name>Economics 160</name>
+<name>Neuroscience 120</name>
+<name>Political Science 140</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>588</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 100</name>
+<name>Computer Science 112</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>589</Student_ID>
+<name>Economics 160</name>
+<name>Psychology 206</name>
+<name>Economics 101</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>590</Student_ID>
+<name>Art 247</name>
+<name>Communication Arts 611</name>
+<name>Economics 160</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>591</Student_ID>
+<name>History 101</name>
+<name>Psychology 106</name>
+<name>Education 220</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>592</Student_ID>
+<name>Art 231</name>
+<name>Art 231</name>
+<name>Religious Studies 111</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>593</Student_ID>
+<name>Art 231</name>
+<name>Political Science 110</name>
+<name>Art 231</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>594</Student_ID>
+<name>History 101</name>
+<name>Psychology 206</name>
+<name>Education 100</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>595</Student_ID>
+<name>Communication Arts 611</name>
+<name>Chemistry 104</name>
+<name>Art 110</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>596</Student_ID>
+<name>Art 112</name>
+<name>Psychology 150</name>
+<name>Religious Studies 111</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>597</Student_ID>
+<name>History 110</name>
+<name>Biology 070</name>
+<name>Math 210</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>598</Student_ID>
+<name>Education 220</name>
+<name>Philosophy 210</name>
+<name>The Community and Justice Studies 460</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>599</Student_ID>
+<name>Art 245</name>
+<name>Political Science 140</name>
+<name>Physics 210</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>600</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Art 225</name>
+<name>Global Health Studies 130</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>601</Student_ID>
+<name>Math 160</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 245</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>602</Student_ID>
+<name>Environment Science 315</name>
+<name>Global Health Studies 130</name>
+<name>Communication Arts 611</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>603</Student_ID>
+<name>Biology 070</name>
+<name>The Community and Justice Studies 460</name>
+<name>Art 236</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>604</Student_ID>
+<name>Communication Arts 611</name>
+<name>English 200</name>
+<name>History 101</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>605</Student_ID>
+<name>Education 100</name>
+<name>Physics 210</name>
+<name>Computer Science 112</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>606</Student_ID>
+<name>Music 103</name>
+<name>History 110</name>
+<name>English 200</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>607</Student_ID>
+<name>Physics 120</name>
+<name>Economics 100</name>
+<name>Chemistry 600</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>608</Student_ID>
+<name>Philosophy 210</name>
+<name>Computer Science 250</name>
+<name>Education 220</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>609</Student_ID>
+<name>Biology 100</name>
+<name>Physics 210</name>
+<name>Art 231</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>610</Student_ID>
+<name>Computer Science 111</name>
+<name>Art 112</name>
+<name>English 200</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>611</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Economics 100</name>
+<name>Physics 120</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>612</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Environmental Science 110</name>
+<name>Physics 120</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>613</Student_ID>
+<name>Economics 100</name>
+<name>Math 160</name>
+<name>Dance and Movement Studies 102</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>614</Student_ID>
+<name>Economics 101</name>
+<name>Education 220</name>
+<name>Art 225</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>615</Student_ID>
+<name>Computer Science 580</name>
+<name>Economics 100</name>
+<name>Psychology 150</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>616</Student_ID>
+<name>Computer Science 112</name>
+<name>Economics 101</name>
+<name>Art 225</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>617</Student_ID>
+<name>Education 220</name>
+<name>Environment Science 315</name>
+<name>Environment Science 315</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>618</Student_ID>
+<name>Math 320</name>
+<name>Economics 200</name>
+<name>Geology 250</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>619</Student_ID>
+<name>Religious Studies 111</name>
+<name>Political Science 110</name>
+<name>Biology 060</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>620</Student_ID>
+<name>Math 210</name>
+<name>Music 107</name>
+<name>The Community and Justice Studies 460</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>621</Student_ID>
+<name>Art 110</name>
+<name>Computer Science 580</name>
+<name>Chemistry 600</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>622</Student_ID>
+<name>Philosophy 220</name>
+<name>Music 107</name>
+<name>Computer Science 112</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>623</Student_ID>
+<name>Biology 060</name>
+<name>Geology 250</name>
+<name>Math 210</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>624</Student_ID>
+<name>Computer Science 111</name>
+<name>History 101</name>
+<name>Dance and Movement Studies 100</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>625</Student_ID>
+<name>Biology 067</name>
+<name>Math 170</name>
+<name>Math 210</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>626</Student_ID>
+<name>Geology 108</name>
+<name>Math 160</name>
+<name>Dance and Movement Studies 100</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>627</Student_ID>
+<name>English 200</name>
+<name>Environment Science 315</name>
+<name>Biology 100</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>628</Student_ID>
+<name>History 110</name>
+<name>Math 205</name>
+<name>Psychology 206</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>629</Student_ID>
+<name>Environmental Science 110</name>
+<name>Economics 100</name>
+<name>Biology 070</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>630</Student_ID>
+<name>Physics 120</name>
+<name>Philosophy 220</name>
+<name>Art 236</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>631</Student_ID>
+<name>Math 320</name>
+<name>The Community and Justice Studies 460</name>
+<name>Art 247</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>632</Student_ID>
+<name>Math 205</name>
+<name>Math 160</name>
+<name>Philosophy 220</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>633</Student_ID>
+<name>Math 170</name>
+<name>Art 245</name>
+<name>Neuroscience 120</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>634</Student_ID>
+<name>History 119</name>
+<name>Political Science 140</name>
+<name>Environmental Science 110</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>635</Student_ID>
+<name>Biology 060</name>
+<name>English 200</name>
+<name>Communciation Arts 120</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>636</Student_ID>
+<name>Economics 101</name>
+<name>Dance and Movement Studies 101</name>
+<name>The Community and Justice Studies 160</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>637</Student_ID>
+<name>Art 241</name>
+<name>Music 103</name>
+<name>Math 210</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>638</Student_ID>
+<name>Math 160</name>
+<name>The Community and Justice Studies 160</name>
+<name>Math 160</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>639</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Art 247</name>
+<name>Environmental Science 110</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>640</Student_ID>
+<name>Physics 210</name>
+<name>Art 245</name>
+<name>Music 103</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>641</Student_ID>
+<name>Political Science 110</name>
+<name>Political Science 110</name>
+<name>Art 111</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>642</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Environment Science 315</name>
+<name>Environment Science 315</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>643</Student_ID>
+<name>Economics 200</name>
+<name>Psychology 150</name>
+<name>Computer Science 111</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>644</Student_ID>
+<name>Neuroscience 120</name>
+<name>History 119</name>
+<name>Psychology 106</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>645</Student_ID>
+<name>Computer Science 111</name>
+<name>Geology 250</name>
+<name>Political Science 110</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>646</Student_ID>
+<name>Environment Science 230</name>
+<name>Environment Science 230</name>
+<name>Philosophy 240</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>647</Student_ID>
+<name>Art 247</name>
+<name>Global Health Studies 370</name>
+<name>Global Health Studies 370</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>648</Student_ID>
+<name>Global Health Studies 130</name>
+<name>History 119</name>
+<name>Neuroscience 120</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>649</Student_ID>
+<name>English 203</name>
+<name>Neuroscience 120</name>
+<name>Physics 120</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>650</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Art 245</name>
+<name>Chemistry 104</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>651</Student_ID>
+<name>Environment Science 315</name>
+<name>Environment Science 230</name>
+<name>Philosophy 220</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>652</Student_ID>
+<name>Political Science 140</name>
+<name>Physics 210</name>
+<name>Computer Science 112</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>653</Student_ID>
+<name>Math 170</name>
+<name>Neuroscience 120</name>
+<name>Biology 060</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>654</Student_ID>
+<name>Art 247</name>
+<name>Math 210</name>
+<name>Music 107</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>655</Student_ID>
+<name>Psychology 150</name>
+<name>Computer Science 250</name>
+<name>Music 103</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>656</Student_ID>
+<name>Neuroscience 120</name>
+<name>Dance and Movement Studies 101</name>
+<name>Global Health Studies 130</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>657</Student_ID>
+<name>Computer Science 580</name>
+<name>Psychology 106</name>
+<name>Music 103</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>658</Student_ID>
+<name>Physics 210</name>
+<name>Computer Science 580</name>
+<name>Art 111</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>659</Student_ID>
+<name>Art 241</name>
+<name>Psychology 206</name>
+<name>Geology 250</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>660</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Religious Studies 120</name>
+<name>Physics 120</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>661</Student_ID>
+<name>Art 245</name>
+<name>Religious Studies 120</name>
+<name>Geology 108</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>662</Student_ID>
+<name>Art 241</name>
+<name>Political Science 110</name>
+<name>Art 110</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>663</Student_ID>
+<name>Math 205</name>
+<name>Psychology 150</name>
+<name>Global Health Studies 130</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>664</Student_ID>
+<name>Geology 250</name>
+<name>Art 110</name>
+<name>Psychology 150</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>665</Student_ID>
+<name>Education 100</name>
+<name>Dance and Movement Studies 101</name>
+<name>Art 110</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>666</Student_ID>
+<name>Education 100</name>
+<name>Education 220</name>
+<name>Art 110</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>667</Student_ID>
+<name>Computer Science 111</name>
+<name>Computer Science 580</name>
+<name>Math 205</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>668</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Math 205</name>
+<name>Philosophy 240</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>669</Student_ID>
+<name>Math 320</name>
+<name>Religious Studies 111</name>
+<name>Economics 100</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>670</Student_ID>
+<name>History 110</name>
+<name>Geology 108</name>
+<name>Education 100</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>671</Student_ID>
+<name>Physics 120</name>
+<name>Physics 210</name>
+<name>Global Health Studies 370</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>672</Student_ID>
+<name>Biology 067</name>
+<name>English 200</name>
+<name>Math 320</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>673</Student_ID>
+<name>Psychology 150</name>
+<name>Neuroscience 120</name>
+<name>Art 245</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>674</Student_ID>
+<name>Math 320</name>
+<name>Global Health Studies 370</name>
+<name>Art 231</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>675</Student_ID>
+<name>Religious Studies 130</name>
+<name>Music 103</name>
+<name>Math 210</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>676</Student_ID>
+<name>Psychology 150</name>
+<name>Math 320</name>
+<name>Communciation Arts 120</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>677</Student_ID>
+<name>Philosophy 240</name>
+<name>History 110</name>
+<name>Physics 120</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>678</Student_ID>
+<name>Environmental Science 110</name>
+<name>Economics 100</name>
+<name>Communication Arts 611</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>679</Student_ID>
+<name>Religious Studies 111</name>
+<name>Art 225</name>
+<name>Art 231</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>680</Student_ID>
+<name>History 119</name>
+<name>Economics 160</name>
+<name>Math 320</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>681</Student_ID>
+<name>Education 100</name>
+<name>Psychology 206</name>
+<name>Education 100</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>682</Student_ID>
+<name>Art 241</name>
+<name>Art 236</name>
+<name>Global Health Studies 130</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>683</Student_ID>
+<name>Music 103</name>
+<name>Art 112</name>
+<name>History 110</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>684</Student_ID>
+<name>Economics 200</name>
+<name>Environment Science 230</name>
+<name>Religious Studies 120</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>685</Student_ID>
+<name>Environment Science 315</name>
+<name>Math 210</name>
+<name>Computer Science 112</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>686</Student_ID>
+<name>Education 100</name>
+<name>Education 220</name>
+<name>Environment Science 315</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>687</Student_ID>
+<name>Philosophy 220</name>
+<name>Political Science 140</name>
+<name>Global Health Studies 130</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>688</Student_ID>
+<name>Political Science 110</name>
+<name>The Community and Justice Studies 460</name>
+<name>Political Science 110</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>689</Student_ID>
+<name>Neuroscience 120</name>
+<name>Computer Science 112</name>
+<name>Economics 101</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>690</Student_ID>
+<name>Economics 100</name>
+<name>Chemistry 600</name>
+<name>Religious Studies 130</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>691</Student_ID>
+<name>Art 111</name>
+<name>Global Health Studies 370</name>
+<name>Economics 101</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>692</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Art 245</name>
+<name>Communciation Arts 120</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>693</Student_ID>
+<name>Chemistry 104</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 070</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>694</Student_ID>
+<name>Chemistry 600</name>
+<name>Math 170</name>
+<name>Education 220</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>695</Student_ID>
+<name>Biology 067</name>
+<name>Environment Science 230</name>
+<name>Dance and Movement Studies 101</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>696</Student_ID>
+<name>Math 205</name>
+<name>Economics 160</name>
+<name>Dance and Movement Studies 102</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>697</Student_ID>
+<name>Religious Studies 120</name>
+<name>Psychology 150</name>
+<name>Global Health Studies 370</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>698</Student_ID>
+<name>Political Science 110</name>
+<name>Art 236</name>
+<name>Art 110</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>699</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Biology 100</name>
+<name>Biology 070</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>700</Student_ID>
+<name>Art 225</name>
+<name>Physics 210</name>
+<name>Communciation Arts 120</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>701</Student_ID>
+<name>Math 210</name>
+<name>Religious Studies 120</name>
+<name>Economics 100</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>702</Student_ID>
+<name>Math 170</name>
+<name>Art 241</name>
+<name>Religious Studies 111</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>703</Student_ID>
+<name>Computer Science 111</name>
+<name>Global Health Studies 130</name>
+<name>Art 236</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>704</Student_ID>
+<name>Computer Science 250</name>
+<name>Computer Science 111</name>
+<name>Neuroscience 120</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>705</Student_ID>
+<name>Biology 100</name>
+<name>Math 170</name>
+<name>Music 107</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>706</Student_ID>
+<name>Geology 250</name>
+<name>Computer Science 580</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>707</Student_ID>
+<name>Biology 100</name>
+<name>History 119</name>
+<name>Music 103</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>708</Student_ID>
+<name>Philosophy 210</name>
+<name>Art 225</name>
+<name>Music 107</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>709</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Chemistry 104</name>
+<name>Biology 067</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>710</Student_ID>
+<name>Neuroscience 120</name>
+<name>Environmental Science 110</name>
+<name>Education 100</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>711</Student_ID>
+<name>Communication Arts 611</name>
+<name>Geology 250</name>
+<name>Art 225</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>712</Student_ID>
+<name>English 200</name>
+<name>Communication Arts 611</name>
+<name>Chemistry 104</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>713</Student_ID>
+<name>Philosophy 210</name>
+<name>Computer Science 111</name>
+<name>Math 210</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>714</Student_ID>
+<name>Art 225</name>
+<name>Chemistry 600</name>
+<name>Political Science 110</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>715</Student_ID>
+<name>Art 245</name>
+<name>History 119</name>
+<name>Computer Science 112</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>716</Student_ID>
+<name>Art 110</name>
+<name>Economics 101</name>
+<name>History 119</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>717</Student_ID>
+<name>Environment Science 230</name>
+<name>Communciation Arts 120</name>
+<name>Chemistry 104</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>718</Student_ID>
+<name>Computer Science 250</name>
+<name>Computer Science 580</name>
+<name>Physics 210</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>719</Student_ID>
+<name>Economics 100</name>
+<name>Dance and Movement Studies 101</name>
+<name>Education 220</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>720</Student_ID>
+<name>Education 220</name>
+<name>Communciation Arts 120</name>
+<name>Art 231</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>721</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Math 205</name>
+<name>Political Science 110</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>722</Student_ID>
+<name>History 110</name>
+<name>Philosophy 220</name>
+<name>Computer Science 250</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>723</Student_ID>
+<name>Art 241</name>
+<name>Psychology 106</name>
+<name>Psychology 206</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>724</Student_ID>
+<name>Math 210</name>
+<name>The Community and Justice Studies 160</name>
+<name>Math 205</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>725</Student_ID>
+<name>Psychology 106</name>
+<name>Art 236</name>
+<name>Art 231</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>726</Student_ID>
+<name>Political Science 110</name>
+<name>Communication Arts 611</name>
+<name>Biology 067</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>727</Student_ID>
+<name>Math 170</name>
+<name>Biology 070</name>
+<name>Art 231</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>728</Student_ID>
+<name>Math 170</name>
+<name>Global Health Studies 370</name>
+<name>Math 210</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>729</Student_ID>
+<name>Environment Science 315</name>
+<name>Psychology 206</name>
+<name>Art 112</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>730</Student_ID>
+<name>Art 247</name>
+<name>Computer Science 250</name>
+<name>Computer Science 112</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>731</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Biology 100</name>
+<name>Education 100</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>732</Student_ID>
+<name>Religious Studies 120</name>
+<name>Religious Studies 111</name>
+<name>Geology 250</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>733</Student_ID>
+<name>Art 247</name>
+<name>Psychology 206</name>
+<name>Chemistry 104</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>734</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Dance and Movement Studies 100</name>
+<name>Biology 100</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>735</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Economics 100</name>
+<name>Religious Studies 111</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>736</Student_ID>
+<name>Math 170</name>
+<name>History 110</name>
+<name>Environmental Science 110</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>737</Student_ID>
+<name>Economics 200</name>
+<name>Environment Science 230</name>
+<name>English 200</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>738</Student_ID>
+<name>History 101</name>
+<name>Dance and Movement Studies 100</name>
+<name>Religious Studies 130</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>739</Student_ID>
+<name>Math 205</name>
+<name>The Community and Justice Studies 460</name>
+<name>Economics 160</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>740</Student_ID>
+<name>Psychology 106</name>
+<name>Philosophy 240</name>
+<name>Art 247</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>741</Student_ID>
+<name>Biology 060</name>
+<name>Dance and Movement Studies 100</name>
+<name>Philosophy 240</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>742</Student_ID>
+<name>Political Science 140</name>
+<name>Art 236</name>
+<name>Economics 100</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>743</Student_ID>
+<name>Psychology 206</name>
+<name>Biology 060</name>
+<name>Psychology 106</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>744</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Psychology 106</name>
+<name>Biology 067</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>745</Student_ID>
+<name>Computer Science 112</name>
+<name>Education 220</name>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>746</Student_ID>
+<name>Biology 070</name>
+<name>History 101</name>
+<name>Chemistry 104</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>747</Student_ID>
+<name>Physics 120</name>
+<name>Dance and Movement Studies 100</name>
+<name>Psychology 150</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>748</Student_ID>
+<name>Art 247</name>
+<name>Economics 101</name>
+<name>Math 320</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>749</Student_ID>
+<name>English 203</name>
+<name>Math 170</name>
+<name>Religious Studies 120</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>750</Student_ID>
+<name>Psychology 150</name>
+<name>Math 210</name>
+<name>Environmental Science 110</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>751</Student_ID>
+<name>Math 205</name>
+<name>Math 210</name>
+<name>Economics 100</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>752</Student_ID>
+<name>Math 320</name>
+<name>Global Health Studies 130</name>
+<name>Religious Studies 120</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>753</Student_ID>
+<name>Music 103</name>
+<name>History 119</name>
+<name>Education 220</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>754</Student_ID>
+<name>Environmental Science 110</name>
+<name>Global Health Studies 130</name>
+<name>Psychology 150</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>755</Student_ID>
+<name>Physics 210</name>
+<name>Global Health Studies 370</name>
+<name>Physics 210</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>756</Student_ID>
+<name>Biology 060</name>
+<name>Religious Studies 120</name>
+<name>Dance and Movement Studies 100</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>757</Student_ID>
+<name>History 110</name>
+<name>The Community and Justice Studies 460</name>
+<name>Math 205</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>758</Student_ID>
+<name>Art 241</name>
+<name>Education 220</name>
+<name>Chemistry 600</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>759</Student_ID>
+<name>Economics 200</name>
+<name>English 200</name>
+<name>Physics 120</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>760</Student_ID>
+<name>Education 220</name>
+<name>Music 107</name>
+<name>History 119</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>761</Student_ID>
+<name>Psychology 106</name>
+<name>Music 103</name>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>762</Student_ID>
+<name>Education 220</name>
+<name>Dance and Movement Studies 101</name>
+<name>The Community and Justice Studies 160</name>
+<name>Religious Studies 120</name>
+</Student>
+<Student>
+<Student_ID>763</Student_ID>
+<name>Music 103</name>
+<name>Art 225</name>
+<name>Religious Studies 130</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>764</Student_ID>
+<name>Art 225</name>
+<name>Math 205</name>
+<name>Psychology 106</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>765</Student_ID>
+<name>Philosophy 240</name>
+<name>Philosophy 240</name>
+<name>Biology 100</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>766</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Dance and Movement Studies 101</name>
+<name>History 110</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>767</Student_ID>
+<name>English 203</name>
+<name>Religious Studies 120</name>
+<name>Biology 070</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>768</Student_ID>
+<name>Economics 200</name>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 580</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>769</Student_ID>
+<name>Biology 100</name>
+<name>Neuroscience 120</name>
+<name>Art 245</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>770</Student_ID>
+<name>Education 220</name>
+<name>Education 100</name>
+<name>Biology 067</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>771</Student_ID>
+<name>Psychology 206</name>
+<name>Geology 250</name>
+<name>The Community and Justice Studies 160</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>772</Student_ID>
+<name>Economics 100</name>
+<name>Religious Studies 111</name>
+<name>Art 236</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>773</Student_ID>
+<name>Biology 060</name>
+<name>History 119</name>
+<name>Dance and Movement Studies 100</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>774</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Economics 160</name>
+<name>Computer Science 112</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>775</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Chemistry 600</name>
+<name>Psychology 106</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>776</Student_ID>
+<name>Art 225</name>
+<name>Communciation Arts 120</name>
+<name>Environment Science 230</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>777</Student_ID>
+<name>Political Science 110</name>
+<name>Philosophy 240</name>
+<name>Religious Studies 130</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>778</Student_ID>
+<name>Physics 120</name>
+<name>Art 245</name>
+<name>Biology 060</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>779</Student_ID>
+<name>Philosophy 240</name>
+<name>Economics 160</name>
+<name>The Community and Justice Studies 160</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>780</Student_ID>
+<name>Chemistry 600</name>
+<name>Art 245</name>
+<name>Art 241</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>781</Student_ID>
+<name>Music 107</name>
+<name>Communication Arts 611</name>
+<name>Music 107</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>782</Student_ID>
+<name>Biology 060</name>
+<name>Psychology 106</name>
+<name>Economics 200</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>783</Student_ID>
+<name>Art 231</name>
+<name>Computer Science 580</name>
+<name>Chemistry 104</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>784</Student_ID>
+<name>Psychology 206</name>
+<name>Political Science 110</name>
+<name>Math 160</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>785</Student_ID>
+<name>Math 160</name>
+<name>Political Science 110</name>
+<name>Biology 060</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>786</Student_ID>
+<name>Art 247</name>
+<name>Dance and Movement Studies 101</name>
+<name>Psychology 150</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>787</Student_ID>
+<name>Economics 101</name>
+<name>Music 107</name>
+<name>Math 210</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>788</Student_ID>
+<name>Religious Studies 130</name>
+<name>History 101</name>
+<name>Philosophy 220</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>789</Student_ID>
+<name>Political Science 110</name>
+<name>The Community and Justice Studies 460</name>
+<name>Chemistry 600</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>790</Student_ID>
+<name>Economics 160</name>
+<name>Physics 210</name>
+<name>History 110</name>
+<name>History 101</name>
+</Student>
+<Student>
+<Student_ID>791</Student_ID>
+<name>Philosophy 220</name>
+<name>History 110</name>
+<name>Art 245</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>792</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Dance and Movement Studies 100</name>
+<name>Global Health Studies 370</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>793</Student_ID>
+<name>History 110</name>
+<name>Computer Science 111</name>
+<name>Psychology 150</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>794</Student_ID>
+<name>Biology 070</name>
+<name>Economics 101</name>
+<name>Dance and Movement Studies 101</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>795</Student_ID>
+<name>Psychology 206</name>
+<name>English 200</name>
+<name>Psychology 150</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>796</Student_ID>
+<name>Chemistry 600</name>
+<name>Philosophy 240</name>
+<name>Biology 070</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>797</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Communication Arts 611</name>
+<name>Physics 210</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>798</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Economics 101</name>
+<name>Education 100</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>799</Student_ID>
+<name>Physics 210</name>
+<name>Computer Science 250</name>
+<name>History 110</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>800</Student_ID>
+<name>Chemistry 600</name>
+<name>Math 160</name>
+<name>Economics 101</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>801</Student_ID>
+<name>Computer Science 112</name>
+<name>Physics 210</name>
+<name>Biology 067</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>802</Student_ID>
+<name>Education 220</name>
+<name>Chemistry 104</name>
+<name>Music 103</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>803</Student_ID>
+<name>Geology 250</name>
+<name>English 203</name>
+<name>Math 170</name>
+<name>Economics 101</name>
+</Student>
+<Student>
+<Student_ID>804</Student_ID>
+<name>History 110</name>
+<name>English 200</name>
+<name>History 110</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>805</Student_ID>
+<name>Psychology 150</name>
+<name>Global Health Studies 370</name>
+<name>Physics 210</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>806</Student_ID>
+<name>Art 112</name>
+<name>Music 107</name>
+<name>Political Science 110</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>807</Student_ID>
+<name>History 101</name>
+<name>Computer Science 580</name>
+<name>English 203</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>808</Student_ID>
+<name>Environment Science 315</name>
+<name>Economics 200</name>
+<name>Environment Science 315</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>809</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>The Community and Justice Studies 160</name>
+<name>Biology 060</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>810</Student_ID>
+<name>Philosophy 210</name>
+<name>Psychology 206</name>
+<name>Philosophy 210</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>811</Student_ID>
+<name>Biology 100</name>
+<name>Religious Studies 120</name>
+<name>Art 110</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>812</Student_ID>
+<name>Biology 060</name>
+<name>Economics 200</name>
+<name>Biology 060</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>813</Student_ID>
+<name>Chemistry 104</name>
+<name>Dance and Movement Studies 100</name>
+<name>Art 231</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>814</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Math 205</name>
+<name>Physics 120</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>815</Student_ID>
+<name>Physics 210</name>
+<name>Math 160</name>
+<name>Art 231</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>816</Student_ID>
+<name>Computer Science 111</name>
+<name>Chemistry 104</name>
+<name>Art 110</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>817</Student_ID>
+<name>Chemistry 600</name>
+<name>Political Science 110</name>
+<name>Global Health Studies 370</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>818</Student_ID>
+<name>Geology 108</name>
+<name>Psychology 150</name>
+<name>Religious Studies 111</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>819</Student_ID>
+<name>Art 231</name>
+<name>Art 225</name>
+<name>Psychology 106</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>820</Student_ID>
+<name>Communication Arts 611</name>
+<name>Art 245</name>
+<name>Physics 120</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>821</Student_ID>
+<name>Physics 210</name>
+<name>Biology 067</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>822</Student_ID>
+<name>Education 100</name>
+<name>Physics 120</name>
+<name>Math 320</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>823</Student_ID>
+<name>Biology 067</name>
+<name>Environmental Science 110</name>
+<name>Economics 200</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>824</Student_ID>
+<name>Neuroscience 120</name>
+<name>Global Health Studies 130</name>
+<name>Psychology 206</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>825</Student_ID>
+<name>Communication Arts 611</name>
+<name>History 119</name>
+<name>Economics 100</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>826</Student_ID>
+<name>Biology 100</name>
+<name>Computer Science 250</name>
+<name>Computer Science 250</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>827</Student_ID>
+<name>Math 160</name>
+<name>Philosophy 240</name>
+<name>Global Health Studies 130</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>828</Student_ID>
+<name>Environmental Science 110</name>
+<name>History 101</name>
+<name>Math 170</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>829</Student_ID>
+<name>Art 245</name>
+<name>Religious Studies 120</name>
+<name>Communication Arts 611</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>830</Student_ID>
+<name>Religious Studies 111</name>
+<name>Computer Science 580</name>
+<name>Neuroscience 120</name>
+<name>Neuroscience 120</name>
+</Student>
+<Student>
+<Student_ID>831</Student_ID>
+<name>Biology 070</name>
+<name>Chemistry 104</name>
+<name>Philosophy 240</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>832</Student_ID>
+<name>Psychology 106</name>
+<name>Math 320</name>
+<name>Computer Science 580</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>833</Student_ID>
+<name>Art 247</name>
+<name>Philosophy 210</name>
+<name>Biology 100</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>834</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Computer Science 250</name>
+<name>Political Science 140</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>835</Student_ID>
+<name>Geology 250</name>
+<name>Economics 101</name>
+<name>Economics 101</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>836</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>The Community and Justice Studies 160</name>
+<name>Geology 250</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>837</Student_ID>
+<name>Psychology 206</name>
+<name>Chemistry 600</name>
+<name>Environment Science 315</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>838</Student_ID>
+<name>Psychology 206</name>
+<name>Environmental Science 110</name>
+<name>Global Health Studies 370</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>839</Student_ID>
+<name>Economics 100</name>
+<name>Philosophy 220</name>
+<name>Environment Science 315</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>840</Student_ID>
+<name>Art 245</name>
+<name>Psychology 206</name>
+<name>Psychology 206</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>841</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>Economics 200</name>
+<name>Philosophy 240</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>842</Student_ID>
+<name>Religious Studies 111</name>
+<name>Chemistry 104</name>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>843</Student_ID>
+<name>Computer Science 580</name>
+<name>Dance and Movement Studies 102</name>
+<name>Biology 100</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>844</Student_ID>
+<name>Art 247</name>
+<name>Computer Science 111</name>
+<name>Economics 100</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>845</Student_ID>
+<name>Philosophy 220</name>
+<name>Dance and Movement Studies 102</name>
+<name>Psychology 150</name>
+<name>Geology 108</name>
+</Student>
+<Student>
+<Student_ID>846</Student_ID>
+<name>Physics 210</name>
+<name>Philosophy 220</name>
+<name>Geology 108</name>
+<name>Education 100</name>
+</Student>
+<Student>
+<Student_ID>847</Student_ID>
+<name>Economics 101</name>
+<name>Math 205</name>
+<name>History 119</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>848</Student_ID>
+<name>History 110</name>
+<name>Philosophy 240</name>
+<name>Environment Science 230</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>849</Student_ID>
+<name>Education 100</name>
+<name>Environment Science 315</name>
+<name>Philosophy 240</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>850</Student_ID>
+<name>Philosophy 220</name>
+<name>History 101</name>
+<name>Economics 200</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>851</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Education 100</name>
+<name>Economics 100</name>
+<name>Biology 070</name>
+</Student>
+<Student>
+<Student_ID>852</Student_ID>
+<name>Dance and Movement Studies 102</name>
+<name>The Community and Justice Studies 160</name>
+<name>Environmental Science 110</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>853</Student_ID>
+<name>Math 170</name>
+<name>Chemistry 600</name>
+<name>Computer Science 250</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>854</Student_ID>
+<name>History 101</name>
+<name>Environment Science 315</name>
+<name>Art 231</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>855</Student_ID>
+<name>Math 320</name>
+<name>History 119</name>
+<name>Art 245</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>856</Student_ID>
+<name>Art 112</name>
+<name>Art 247</name>
+<name>Chemistry 104</name>
+<name>Political Science 140</name>
+</Student>
+<Student>
+<Student_ID>857</Student_ID>
+<name>Psychology 150</name>
+<name>Math 170</name>
+<name>The Community and Justice Studies 160</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>858</Student_ID>
+<name>Religious Studies 111</name>
+<name>Art 236</name>
+<name>Geology 108</name>
+<name>Art 111</name>
+</Student>
+<Student>
+<Student_ID>859</Student_ID>
+<name>Physics 120</name>
+<name>Environment Science 315</name>
+<name>Neuroscience 120</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>860</Student_ID>
+<name>Math 210</name>
+<name>Environmental Science 110</name>
+<name>Economics 160</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>861</Student_ID>
+<name>Chemistry 104</name>
+<name>Economics 100</name>
+<name>Art 231</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>862</Student_ID>
+<name>Computer Science 250</name>
+<name>Dance and Movement Studies 102</name>
+<name>Art 112</name>
+<name>Dance and Movement Studies 102</name>
+</Student>
+<Student>
+<Student_ID>863</Student_ID>
+<name>Biology 070</name>
+<name>Music 103</name>
+<name>Philosophy 220</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>864</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Biology 060</name>
+<name>Biology 070</name>
+<name>Art 110</name>
+</Student>
+<Student>
+<Student_ID>865</Student_ID>
+<name>Psychology 106</name>
+<name>Math 320</name>
+<name>Art 236</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>866</Student_ID>
+<name>Neuroscience 120</name>
+<name>Economics 101</name>
+<name>Biology 070</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>867</Student_ID>
+<name>Psychology 206</name>
+<name>Neuroscience 120</name>
+<name>Geology 250</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>868</Student_ID>
+<name>Physics 210</name>
+<name>The Community and Justice Studies 160</name>
+<name>Global Health Studies 370</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>869</Student_ID>
+<name>Chemistry 600</name>
+<name>Geology 108</name>
+<name>Art 110</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>870</Student_ID>
+<name>Art 231</name>
+<name>Art 245</name>
+<name>Biology 100</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>871</Student_ID>
+<name>History 110</name>
+<name>Biology 070</name>
+<name>Political Science 110</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>872</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Global Health Studies 370</name>
+<name>Economics 200</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>873</Student_ID>
+<name>Art 236</name>
+<name>Music 107</name>
+<name>Music 103</name>
+<name>Computer Science 250</name>
+</Student>
+<Student>
+<Student_ID>874</Student_ID>
+<name>Art 247</name>
+<name>Education 100</name>
+<name>Computer Science 112</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>875</Student_ID>
+<name>Geology 250</name>
+<name>Art 231</name>
+<name>Economics 100</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>876</Student_ID>
+<name>Math 210</name>
+<name>Physics 120</name>
+<name>History 119</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>877</Student_ID>
+<name>Math 210</name>
+<name>Chemistry 600</name>
+<name>Dance and Movement Studies 102</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>878</Student_ID>
+<name>Economics 100</name>
+<name>Education 100</name>
+<name>Economics 200</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>879</Student_ID>
+<name>Math 210</name>
+<name>Global Health Studies 130</name>
+<name>Global Health Studies 370</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>880</Student_ID>
+<name>English 200</name>
+<name>Political Science 140</name>
+<name>Art 247</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>881</Student_ID>
+<name>Education 220</name>
+<name>Neuroscience 120</name>
+<name>Biology 067</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>882</Student_ID>
+<name>Environment Science 230</name>
+<name>Religious Studies 130</name>
+<name>Psychology 150</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>883</Student_ID>
+<name>Math 170</name>
+<name>Neuroscience 120</name>
+<name>Music 107</name>
+<name>History 110</name>
+</Student>
+<Student>
+<Student_ID>884</Student_ID>
+<name>Computer Science 111</name>
+<name>Environment Science 230</name>
+<name>Geology 250</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>885</Student_ID>
+<name>Philosophy 210</name>
+<name>Music 103</name>
+<name>Math 210</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>886</Student_ID>
+<name>Computer Science 112</name>
+<name>Computer Science 112</name>
+<name>Art 247</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>887</Student_ID>
+<name>Education 220</name>
+<name>Education 220</name>
+<name>Economics 200</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>888</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Computer Science 250</name>
+<name>Environment Science 315</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>889</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Geology 250</name>
+<name>Religious Studies 120</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>890</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>English 200</name>
+<name>Economics 101</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>891</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Philosophy 220</name>
+<name>Art 110</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>892</Student_ID>
+<name>Biology 067</name>
+<name>Philosophy 220</name>
+<name>Dance and Movement Studies 100</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>893</Student_ID>
+<name>Computer Science 111</name>
+<name>Communciation Arts 120</name>
+<name>Biology 070</name>
+<name>Religious Studies 130</name>
+</Student>
+<Student>
+<Student_ID>894</Student_ID>
+<name>Biology 060</name>
+<name>Education 100</name>
+<name>Biology 100</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>895</Student_ID>
+<name>Biology 067</name>
+<name>Religious Studies 120</name>
+<name>Philosophy 220</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>896</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Global Health Studies 370</name>
+<name>Political Science 110</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>897</Student_ID>
+<name>Art 110</name>
+<name>Geology 250</name>
+<name>Computer Science 112</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>898</Student_ID>
+<name>Art 241</name>
+<name>Education 100</name>
+<name>Psychology 150</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>899</Student_ID>
+<name>English 203</name>
+<name>History 110</name>
+<name>Communciation Arts 120</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>900</Student_ID>
+<name>Philosophy 220</name>
+<name>Geology 250</name>
+<name>Neuroscience 120</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>901</Student_ID>
+<name>Biology 100</name>
+<name>Economics 160</name>
+<name>Education 220</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>902</Student_ID>
+<name>Geology 108</name>
+<name>Dance and Movement Studies 100</name>
+<name>History 101</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>903</Student_ID>
+<name>Art 236</name>
+<name>History 119</name>
+<name>The Community and Justice Studies 460</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>904</Student_ID>
+<name>Physics 210</name>
+<name>Math 160</name>
+<name>Religious Studies 120</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>905</Student_ID>
+<name>Religious Studies 120</name>
+<name>Global Health Studies 370</name>
+<name>Philosophy 210</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>906</Student_ID>
+<name>Philosophy 240</name>
+<name>Computer Science 580</name>
+<name>Math 160</name>
+<name>Music 107</name>
+</Student>
+<Student>
+<Student_ID>907</Student_ID>
+<name>Art 245</name>
+<name>Psychology 106</name>
+<name>Biology 100</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>908</Student_ID>
+<name>Computer Science 580</name>
+<name>Economics 160</name>
+<name>Computer Science 580</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>909</Student_ID>
+<name>Philosophy 210</name>
+<name>Music 107</name>
+<name>Math 210</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>910</Student_ID>
+<name>Economics 100</name>
+<name>Art 225</name>
+<name>Geology 250</name>
+<name>History 119</name>
+</Student>
+<Student>
+<Student_ID>911</Student_ID>
+<name>Computer Science 250</name>
+<name>Art 247</name>
+<name>Philosophy 220</name>
+<name>Computer Science 580</name>
+</Student>
+<Student>
+<Student_ID>912</Student_ID>
+<name>History 119</name>
+<name>Math 320</name>
+<name>Communciation Arts 120</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>913</Student_ID>
+<name>Chemistry 104</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 210</name>
+<name>Art 112</name>
+</Student>
+<Student>
+<Student_ID>914</Student_ID>
+<name>Music 107</name>
+<name>Art 245</name>
+<name>Economics 100</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>915</Student_ID>
+<name>Computer Science 250</name>
+<name>Communication Arts 611</name>
+<name>Education 220</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>916</Student_ID>
+<name>Art 225</name>
+<name>Geology 250</name>
+<name>History 119</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>917</Student_ID>
+<name>Art 112</name>
+<name>Economics 100</name>
+<name>Political Science 140</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>918</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Art 236</name>
+<name>Economics 200</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>919</Student_ID>
+<name>Neuroscience 120</name>
+<name>Art 225</name>
+<name>Religious Studies 111</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>920</Student_ID>
+<name>Art 231</name>
+<name>Chemistry 600</name>
+<name>Psychology 206</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>921</Student_ID>
+<name>Biology 067</name>
+<name>Computer Science 250</name>
+<name>Economics 160</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>922</Student_ID>
+<name>Education 220</name>
+<name>History 110</name>
+<name>Environmental Science 110</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>923</Student_ID>
+<name>Economics 100</name>
+<name>Art 245</name>
+<name>Political Science 140</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>924</Student_ID>
+<name>History 101</name>
+<name>Physics 120</name>
+<name>Math 170</name>
+<name>Communication Arts 611</name>
+</Student>
+<Student>
+<Student_ID>925</Student_ID>
+<name>Psychology 150</name>
+<name>Religious Studies 111</name>
+<name>Physics 210</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>926</Student_ID>
+<name>Computer Science 250</name>
+<name>Religious Studies 130</name>
+<name>Computer Science 112</name>
+<name>Physics 210</name>
+</Student>
+<Student>
+<Student_ID>927</Student_ID>
+<name>Political Science 140</name>
+<name>Dance and Movement Studies 101</name>
+<name>Computer Science 250</name>
+<name>Computer Science 112</name>
+</Student>
+<Student>
+<Student_ID>928</Student_ID>
+<name>Religious Studies 111</name>
+<name>Dance and Movement Studies 102</name>
+<name>Math 160</name>
+<name>Music 103</name>
+</Student>
+<Student>
+<Student_ID>929</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>Economics 100</name>
+<name>Computer Science 250</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>930</Student_ID>
+<name>Art 110</name>
+<name>Dance and Movement Studies 102</name>
+<name>Global Health Studies 370</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>931</Student_ID>
+<name>Philosophy 210</name>
+<name>Biology 100</name>
+<name>English 200</name>
+<name>Philosophy 210</name>
+</Student>
+<Student>
+<Student_ID>932</Student_ID>
+<name>Biology 067</name>
+<name>Environment Science 230</name>
+<name>Math 170</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>933</Student_ID>
+<name>Economics 200</name>
+<name>Math 210</name>
+<name>Biology 067</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>934</Student_ID>
+<name>History 119</name>
+<name>Art 247</name>
+<name>Physics 210</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>935</Student_ID>
+<name>Philosophy 220</name>
+<name>Art 111</name>
+<name>Art 231</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>936</Student_ID>
+<name>Geology 108</name>
+<name>Religious Studies 111</name>
+<name>Psychology 206</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>937</Student_ID>
+<name>Political Science 110</name>
+<name>Art 111</name>
+<name>Computer Science 111</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>938</Student_ID>
+<name>Computer Science 112</name>
+<name>Art 111</name>
+<name>Education 220</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>939</Student_ID>
+<name>History 119</name>
+<name>Physics 120</name>
+<name>The Community and Justice Studies 460</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>940</Student_ID>
+<name>The Community and Justice Studies 160</name>
+<name>Philosophy 210</name>
+<name>Philosophy 240</name>
+<name>Math 170</name>
+</Student>
+<Student>
+<Student_ID>941</Student_ID>
+<name>Math 170</name>
+<name>English 203</name>
+<name>Math 160</name>
+<name>Psychology 106</name>
+</Student>
+<Student>
+<Student_ID>942</Student_ID>
+<name>Religious Studies 130</name>
+<name>Environment Science 315</name>
+<name>History 101</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>943</Student_ID>
+<name>Biology 070</name>
+<name>Dance and Movement Studies 101</name>
+<name>Environmental Science 110</name>
+<name>English 200</name>
+</Student>
+<Student>
+<Student_ID>944</Student_ID>
+<name>Art 225</name>
+<name>Math 170</name>
+<name>Art 247</name>
+<name>Political Science 110</name>
+</Student>
+<Student>
+<Student_ID>945</Student_ID>
+<name>Communciation Arts 120</name>
+<name>Psychology 150</name>
+<name>Religious Studies 130</name>
+<name>Religious Studies 111</name>
+</Student>
+<Student>
+<Student_ID>946</Student_ID>
+<name>Psychology 150</name>
+<name>Dance and Movement Studies 102</name>
+<name>Geology 108</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>947</Student_ID>
+<name>Religious Studies 120</name>
+<name>Religious Studies 111</name>
+<name>Education 220</name>
+<name>Economics 200</name>
+</Student>
+<Student>
+<Student_ID>948</Student_ID>
+<name>Music 107</name>
+<name>History 110</name>
+<name>Math 170</name>
+<name>Global Health Studies 370</name>
+</Student>
+<Student>
+<Student_ID>949</Student_ID>
+<name>Computer Science 580</name>
+<name>Philosophy 210</name>
+<name>Environmental Science 110</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>950</Student_ID>
+<name>Philosophy 220</name>
+<name>Computer Science 111</name>
+<name>Art 225</name>
+<name>Communciation Arts 120</name>
+</Student>
+<Student>
+<Student_ID>951</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Environment Science 315</name>
+<name>Music 103</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>952</Student_ID>
+<name>Education 100</name>
+<name>Math 320</name>
+<name>Global Health Studies 370</name>
+<name>Art 236</name>
+</Student>
+<Student>
+<Student_ID>953</Student_ID>
+<name>Math 160</name>
+<name>Economics 100</name>
+<name>Art 247</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>954</Student_ID>
+<name>Communciation Arts 120</name>
+<name>English 200</name>
+<name>Art 231</name>
+<name>Biology 100</name>
+</Student>
+<Student>
+<Student_ID>955</Student_ID>
+<name>Communication Arts 611</name>
+<name>Music 103</name>
+<name>Economics 101</name>
+<name>Computer Science 111</name>
+</Student>
+<Student>
+<Student_ID>956</Student_ID>
+<name>Art 247</name>
+<name>Art 231</name>
+<name>The Community and Justice Studies 460</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>957</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>Education 100</name>
+<name>Art 112</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>958</Student_ID>
+<name>Psychology 106</name>
+<name>The Community and Justice Studies 160</name>
+<name>Geology 250</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>959</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Environment Science 230</name>
+<name>Geology 250</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>960</Student_ID>
+<name>Math 210</name>
+<name>Political Science 110</name>
+<name>Chemistry 104</name>
+<name>Art 225</name>
+</Student>
+<Student>
+<Student_ID>961</Student_ID>
+<name>Global Health Studies 370</name>
+<name>Biology 067</name>
+<name>Neuroscience 120</name>
+<name>Philosophy 240</name>
+</Student>
+<Student>
+<Student_ID>962</Student_ID>
+<name>Biology 060</name>
+<name>Math 210</name>
+<name>Art 231</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>963</Student_ID>
+<name>Philosophy 210</name>
+<name>Education 100</name>
+<name>Art 231</name>
+<name>Physics 120</name>
+</Student>
+<Student>
+<Student_ID>964</Student_ID>
+<name>Chemistry 600</name>
+<name>English 200</name>
+<name>Psychology 106</name>
+<name>Math 210</name>
+</Student>
+<Student>
+<Student_ID>965</Student_ID>
+<name>Math 320</name>
+<name>Chemistry 600</name>
+<name>Environment Science 230</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>966</Student_ID>
+<name>Computer Science 250</name>
+<name>Physics 120</name>
+<name>Music 103</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>967</Student_ID>
+<name>Art 231</name>
+<name>Physics 210</name>
+<name>Computer Science 580</name>
+<name>The Community and Justice Studies 460</name>
+</Student>
+<Student>
+<Student_ID>968</Student_ID>
+<name>Psychology 106</name>
+<name>History 110</name>
+<name>Geology 250</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>969</Student_ID>
+<name>Economics 101</name>
+<name>Computer Science 112</name>
+<name>Geology 108</name>
+<name>Philosophy 220</name>
+</Student>
+<Student>
+<Student_ID>970</Student_ID>
+<name>Art 236</name>
+<name>Political Science 140</name>
+<name>Psychology 206</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>971</Student_ID>
+<name>Economics 160</name>
+<name>Environmental Science 110</name>
+<name>Religious Studies 130</name>
+<name>Dance and Movement Studies 100</name>
+</Student>
+<Student>
+<Student_ID>972</Student_ID>
+<name>Economics 101</name>
+<name>Religious Studies 130</name>
+<name>Math 205</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>973</Student_ID>
+<name>Education 220</name>
+<name>Art 247</name>
+<name>Art 112</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>974</Student_ID>
+<name>Math 205</name>
+<name>Communciation Arts 120</name>
+<name>Biology 067</name>
+<name>Environmental Science 110</name>
+</Student>
+<Student>
+<Student_ID>975</Student_ID>
+<name>The Community and Justice Studies 460</name>
+<name>The Community and Justice Studies 460</name>
+<name>Psychology 150</name>
+<name>Global Health Studies 130</name>
+</Student>
+<Student>
+<Student_ID>976</Student_ID>
+<name>History 119</name>
+<name>Education 100</name>
+<name>Biology 070</name>
+<name>Economics 100</name>
+</Student>
+<Student>
+<Student_ID>977</Student_ID>
+<name>Environment Science 315</name>
+<name>Biology 070</name>
+<name>Economics 200</name>
+<name>Math 160</name>
+</Student>
+<Student>
+<Student_ID>978</Student_ID>
+<name>Economics 160</name>
+<name>Art 110</name>
+<name>Communication Arts 611</name>
+<name>English 203</name>
+</Student>
+<Student>
+<Student_ID>979</Student_ID>
+<name>Philosophy 240</name>
+<name>Geology 108</name>
+<name>Chemistry 104</name>
+<name>Biology 067</name>
+</Student>
+<Student>
+<Student_ID>980</Student_ID>
+<name>Dance and Movement Studies 100</name>
+<name>Dance and Movement Studies 101</name>
+<name>Biology 100</name>
+<name>Math 320</name>
+</Student>
+<Student>
+<Student_ID>981</Student_ID>
+<name>English 203</name>
+<name>Art 247</name>
+<name>Environment Science 315</name>
+<name>Geology 250</name>
+</Student>
+<Student>
+<Student_ID>982</Student_ID>
+<name>Computer Science 112</name>
+<name>Art 225</name>
+<name>Environment Science 315</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>983</Student_ID>
+<name>Art 110</name>
+<name>Religious Studies 120</name>
+<name>Psychology 106</name>
+<name>Art 241</name>
+</Student>
+<Student>
+<Student_ID>984</Student_ID>
+<name>Math 160</name>
+<name>Economics 160</name>
+<name>Chemistry 600</name>
+<name>Biology 060</name>
+</Student>
+<Student>
+<Student_ID>985</Student_ID>
+<name>History 110</name>
+<name>Computer Science 111</name>
+<name>Geology 250</name>
+<name>Psychology 206</name>
+</Student>
+<Student>
+<Student_ID>986</Student_ID>
+<name>Education 100</name>
+<name>Economics 200</name>
+<name>Art 236</name>
+<name>Chemistry 600</name>
+</Student>
+<Student>
+<Student_ID>987</Student_ID>
+<name>Biology 060</name>
+<name>English 200</name>
+<name>Communciation Arts 120</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>988</Student_ID>
+<name>History 110</name>
+<name>Art 247</name>
+<name>Physics 120</name>
+<name>Psychology 150</name>
+</Student>
+<Student>
+<Student_ID>989</Student_ID>
+<name>Neuroscience 120</name>
+<name>Global Health Studies 370</name>
+<name>Math 320</name>
+<name>Chemistry 104</name>
+</Student>
+<Student>
+<Student_ID>990</Student_ID>
+<name>Math 320</name>
+<name>Art 236</name>
+<name>Math 320</name>
+<name>Dance and Movement Studies 101</name>
+</Student>
+<Student>
+<Student_ID>991</Student_ID>
+<name>Global Health Studies 130</name>
+<name>Geology 250</name>
+<name>Music 107</name>
+<name>Environment Science 230</name>
+</Student>
+<Student>
+<Student_ID>992</Student_ID>
+<name>Dance and Movement Studies 101</name>
+<name>The Community and Justice Studies 160</name>
+<name>Religious Studies 130</name>
+<name>Art 231</name>
+</Student>
+<Student>
+<Student_ID>993</Student_ID>
+<name>History 119</name>
+<name>Chemistry 104</name>
+<name>Religious Studies 120</name>
+<name>Art 247</name>
+</Student>
+<Student>
+<Student_ID>994</Student_ID>
+<name>Environment Science 230</name>
+<name>Political Science 140</name>
+<name>Physics 120</name>
+<name>The Community and Justice Studies 160</name>
+</Student>
+<Student>
+<Student_ID>995</Student_ID>
+<name>Neuroscience 120</name>
+<name>History 119</name>
+<name>The Community and Justice Studies 460</name>
+<name>Education 220</name>
+</Student>
+<Student>
+<Student_ID>996</Student_ID>
+<name>Math 320</name>
+<name>Economics 101</name>
+<name>Chemistry 104</name>
+<name>Art 245</name>
+</Student>
+<Student>
+<Student_ID>997</Student_ID>
+<name>English 203</name>
+<name>Psychology 206</name>
+<name>Math 320</name>
+<name>Math 205</name>
+</Student>
+<Student>
+<Student_ID>998</Student_ID>
+<name>Art 236</name>
+<name>Biology 070</name>
+<name>Geology 250</name>
+<name>Environment Science 315</name>
+</Student>
+<Student>
+<Student_ID>999</Student_ID>
+<name>Biology 100</name>
+<name>Computer Science 112</name>
+<name>Biology 060</name>
+<name>Economics 160</name>
+</Student>
+<Student>
+<Student_ID>1000</Student_ID>
+<name>Religious Studies 130</name>
+<name>Philosophy 220</name>
+<name>Dance and Movement Studies 100</name>
+<name>Art 231</name>
+</Student>
+<professor>
+<profID>1</profID>
+<maxClasses>3</maxClasses>
+<teaches>Art 110</teaches>
+<teaches>Art 111</teaches>
+<teaches>Art 112</teaches>
+</professor>
+<professor>
+<profID>2</profID>
+<maxClasses>3</maxClasses>
+<teaches>Art 225</teaches>
+<teaches>Art 231</teaches>
+<teaches>Art 236</teaches>
+</professor>
+<professor>
+<profID>3</profID>
+<maxClasses>3</maxClasses>
+<teaches>Art 241</teaches>
+<teaches>Art 245</teaches>
+<teaches>Art 247</teaches>
+</professor>
+<professor>
+<profID>4</profID>
+<maxClasses>3</maxClasses>
+<teaches>Biology 060</teaches>
+<teaches>Biology 067</teaches>
+<teaches>Biology 070</teaches>
+</professor>
+<professor>
+<profID>5</profID>
+<maxClasses>3</maxClasses>
+<teaches>Biology 100</teaches>
+<teaches>Chemistry 104</teaches>
+<teaches>Chemistry 600</teaches>
+</professor>
+<professor>
+<profID>6</profID>
+<maxClasses>3</maxClasses>
+<teaches>Communciation Arts 120</teaches>
+<teaches>Communication Arts 611</teaches>
+<teaches>The Community and Justice Studies 160</teaches>
+</professor>
+<professor>
+<profID>7</profID>
+<maxClasses>3</maxClasses>
+<teaches>The Community and Justice Studies 460</teaches>
+<teaches>Computer Science 111</teaches>
+<teaches>Computer Science 112</teaches>
+</professor>
+<professor>
+<profID>8</profID>
+<maxClasses>3</maxClasses>
+<teaches>Computer Science 250</teaches>
+<teaches>Computer Science 580</teaches>
+<teaches>Dance and Movement Studies 100</teaches>
+</professor>
+<professor>
+<profID>9</profID>
+<maxClasses>3</maxClasses>
+<teaches>Dance and Movement Studies 101</teaches>
+<teaches>Dance and Movement Studies 102</teaches>
+<teaches>Economics 100</teaches>
+</professor>
+<professor>
+<profID>10</profID>
+<maxClasses>3</maxClasses>
+<teaches>Economics 101</teaches>
+<teaches>Economics 160</teaches>
+<teaches>Economics 200</teaches>
+</professor>
+<professor>
+<profID>11</profID>
+<maxClasses>3</maxClasses>
+<teaches>Education 100</teaches>
+<teaches>Education 220</teaches>
+<teaches>English 200</teaches>
+</professor>
+<professor>
+<profID>12</profID>
+<maxClasses>3</maxClasses>
+<teaches>English 203</teaches>
+<teaches>Environmental Science 110</teaches>
+<teaches>Environment Science 230</teaches>
+</professor>
+<professor>
+<profID>13</profID>
+<maxClasses>3</maxClasses>
+<teaches>Environment Science 315</teaches>
+<teaches>Geology 108</teaches>
+<teaches>Geology 250</teaches>
+</professor>
+<professor>
+<profID>14</profID>
+<maxClasses>3</maxClasses>
+<teaches>Global Health Studies 130</teaches>
+<teaches>Global Health Studies 370</teaches>
+<teaches>History 101</teaches>
+</professor>
+<professor>
+<profID>15</profID>
+<maxClasses>3</maxClasses>
+<teaches>History 110</teaches>
+<teaches>History 119</teaches>
+<teaches>Math 160</teaches>
+</professor>
+<professor>
+<profID>16</profID>
+<maxClasses>3</maxClasses>
+<teaches>Math 170</teaches>
+<teaches>Math 210</teaches>
+<teaches>Math 205</teaches>
+</professor>
+<professor>
+<profID>17</profID>
+<maxClasses>3</maxClasses>
+<teaches>Math 320</teaches>
+<teaches>Music 103</teaches>
+<teaches>Music 107</teaches>
+</professor>
+<professor>
+<profID>18</profID>
+<maxClasses>3</maxClasses>
+<teaches>Neuroscience 120</teaches>
+<teaches>Philosophy 210</teaches>
+<teaches>Philosophy 220</teaches>
+</professor>
+<professor>
+<profID>19</profID>
+<maxClasses>3</maxClasses>
+<teaches>Philosophy 240</teaches>
+<teaches>Physics 120</teaches>
+<teaches>Physics 210</teaches>
+</professor>
+<professor>
+<profID>20</profID>
+<maxClasses>3</maxClasses>
+<teaches>Political Science 110</teaches>
+<teaches>Political Science 140</teaches>
+<teaches>Psychology 106</teaches>
+</professor>
+<professor>
+<profID>21</profID>
+<maxClasses>3</maxClasses>
+<teaches>Psychology 150</teaches>
+<teaches>Psychology 206</teaches>
+<teaches>Religious Studies 111</teaches>
+</professor>
+<professor>
+<profID>22</profID>
+<maxClasses>3</maxClasses>
+<teaches>Religious Studies 120</teaches>
+<teaches>Religious Studies 130</teaches>
+<teaches>Math 365</teaches>
+</professor>
+<Classroom>
+<ID>0</ID>
+<roomName>Room0</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>1</ID>
+<roomName>Room1</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>2</ID>
+<roomName>Room2</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>3</ID>
+<roomName>Room3</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>4</ID>
+<roomName>Room4</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>5</ID>
+<roomName>Room5</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>6</ID>
+<roomName>Room6</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>7</ID>
+<roomName>Room7</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>8</ID>
+<roomName>Room8</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>9</ID>
+<roomName>Room9</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>10</ID>
+<roomName>Room10</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>11</ID>
+<roomName>Room11</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>12</ID>
+<roomName>Room12</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>13</ID>
+<roomName>Room13</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>14</ID>
+<roomName>Room14</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>15</ID>
+<roomName>Room15</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>16</ID>
+<roomName>Room16</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>17</ID>
+<roomName>Room17</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>18</ID>
+<roomName>Room18</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>19</ID>
+<roomName>Room19</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>20</ID>
+<roomName>Room20</roomName>
+<seats>30</seats>
+</Classroom>
+<Classroom>
+<ID>21</ID>
+<roomName>Room21</roomName>
+<seats>30</seats>
+</Classroom>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 110</courseRef>
+<roomRef>Room0</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 111</courseRef>
+<roomRef>Room0</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 112</courseRef>
+<roomRef>Room0</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 225</courseRef>
+<roomRef>Room1</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 231</courseRef>
+<roomRef>Room1</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 236</courseRef>
+<roomRef>Room1</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 241</courseRef>
+<roomRef>Room2</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 245</courseRef>
+<roomRef>Room2</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Art 247</courseRef>
+<roomRef>Room2</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Biology 060</courseRef>
+<roomRef>Room3</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Biology 067</courseRef>
+<roomRef>Room3</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Biology 070</courseRef>
+<roomRef>Room3</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Biology 100</courseRef>
+<roomRef>Room4</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Chemistry 104</courseRef>
+<roomRef>Room4</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Chemistry 600</courseRef>
+<roomRef>Room4</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Communciation Arts 120</courseRef>
+<roomRef>Room5</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Communication Arts 611</courseRef>
+<roomRef>Room5</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>The Community and Justice Studies 160</courseRef>
+<roomRef>Room5</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>The Community and Justice Studies 460</courseRef>
+<roomRef>Room6</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Computer Science 111</courseRef>
+<roomRef>Room6</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Computer Science 112</courseRef>
+<roomRef>Room6</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Computer Science 250</courseRef>
+<roomRef>Room7</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Computer Science 580</courseRef>
+<roomRef>Room7</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Dance and Movement Studies 100</courseRef>
+<roomRef>Room7</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Dance and Movement Studies 101</courseRef>
+<roomRef>Room8</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Dance and Movement Studies 102</courseRef>
+<roomRef>Room8</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Economics 100</courseRef>
+<roomRef>Room8</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Economics 101</courseRef>
+<roomRef>Room9</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Economics 160</courseRef>
+<roomRef>Room9</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Economics 200</courseRef>
+<roomRef>Room9</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Education 100</courseRef>
+<roomRef>Room10</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Education 220</courseRef>
+<roomRef>Room10</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>English 200</courseRef>
+<roomRef>Room10</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>English 203</courseRef>
+<roomRef>Room11</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Environmental Science 110</courseRef>
+<roomRef>Room11</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Environment Science 230</courseRef>
+<roomRef>Room11</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Environment Science 315</courseRef>
+<roomRef>Room12</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Geology 108</courseRef>
+<roomRef>Room12</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Geology 250</courseRef>
+<roomRef>Room12</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Global Health Studies 130</courseRef>
+<roomRef>Room13</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Global Health Studies 370</courseRef>
+<roomRef>Room13</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>History 101</courseRef>
+<roomRef>Room13</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>History 110</courseRef>
+<roomRef>Room14</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>History 119</courseRef>
+<roomRef>Room14</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 160</courseRef>
+<roomRef>Room14</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 170</courseRef>
+<roomRef>Room15</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 210</courseRef>
+<roomRef>Room15</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 205</courseRef>
+<roomRef>Room15</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 320</courseRef>
+<roomRef>Room16</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Music 103</courseRef>
+<roomRef>Room16</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Music 107</courseRef>
+<roomRef>Room16</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Neuroscience 120</courseRef>
+<roomRef>Room17</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Philosophy 210</courseRef>
+<roomRef>Room17</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Philosophy 220</courseRef>
+<roomRef>Room17</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Philosophy 240</courseRef>
+<roomRef>Room18</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Physics 120</courseRef>
+<roomRef>Room18</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Physics 210</courseRef>
+<roomRef>Room18</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Political Science 110</courseRef>
+<roomRef>Room19</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Political Science 140</courseRef>
+<roomRef>Room19</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Psychology 106</courseRef>
+<roomRef>Room19</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Psychology 150</courseRef>
+<roomRef>Room20</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Psychology 206</courseRef>
+<roomRef>Room20</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Religious Studies 111</courseRef>
+<roomRef>Room20</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Religious Studies 120</courseRef>
+<roomRef>Room21</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Religious Studies 130</courseRef>
+<roomRef>Room21</roomRef>
+</Class>
+<Class>
+<profRef>22</profRef>
+<courseRef>Math 365</courseRef>
+<roomRef>Room21</roomRef>
+</Class>
+</Data>
